@@ -10,6 +10,6 @@ permalink: /
 
 This is the internal website for the Cheng Molecular Opthalmology lab's onboarding and a repository for Standard Operating Procedures (SOP).
 
-Most recent release: FORK.
+Most recent release: pretty?.
 
 This documentation website was created using [Jekyll and Github pages](https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll).

@@ -1,8 +1,13 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Cheng Molecular Opthalmology
+description: >-
+  For introducing new people to the lab and storing our Standard Operation Procedures (SOP).
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://yuyanchenglab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: 
+github_username:  yuyanchenglab
+permalink: pretty
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template

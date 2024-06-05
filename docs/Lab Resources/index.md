@@ -17,9 +17,9 @@ nav_order: 5
 
 ## This Website
 
-This website is a (github-pages)[https://docs.github.com/en/pages] site using (just-the-docs)[https://open.win.ox.ac.uk/pages/open-science/community/just-the-docs-v040/] and (jekyll)[https://jekyllrb.com/docs/] to get it running.
+This website is a [github-pages](https://docs.github.com/en/pages) site using [just-the-docs](https://open.win.ox.ac.uk/pages/open-science/community/just-the-docs-v040/) and [jekyll](https://jekyllrb.com/docs/) to get it running.
 
-To modify this site, clone this repository to your computer from the `Source` link in the top right of the webpage. From there, go to the (jekyll site)[https://jekyllrb.com/docs/]. Follow its quickstart guide to install (Ruby)[https://www.ruby-lang.org/en/downloads/] and update the (Ruby Gem)[https://rubygems.org/pages/download] system. From there, use Gem on the command line to install Jekyll with `gem install jekyll bundler`.
+To modify this site, clone this repository to your computer from the `Source` link in the top right of the webpage. From there, go to the [jekyll site](https://jekyllrb.com/docs/). Follow its quickstart guide to install [Ruby](https://www.ruby-lang.org/en/downloads/) and update the [Ruby Gem](https://rubygems.org/pages/download) system. From there, use Gem on the command line to install Jekyll with `gem install jekyll bundler`.
 
 Still on the command line, go into the cloned repo and run `bundle install`. This will make Jekyll use this repository's Gemfile and Gemfile.lock files to install all of the correct versions of software needed to run the site on your computer. When that is done, run `bundle exec jekyll serve` and go to http://localhost:4000// in your web browser to see this website with your local changes.
 

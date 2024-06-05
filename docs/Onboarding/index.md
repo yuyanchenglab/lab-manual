@@ -1,15 +1,25 @@
 ---
 layout: default
 title: Onboarding
-description: "Onboarding"
 has_children: true
-nav_order: 1
+nav_order: 2
 ---
 
-# Pre-Requisites
+# Onboarding
+
+## Pre-Requisites
 
 HIPAA, training on workday
 
-# Other
+## Access to Stellar-Chance and BRB
 
-I'll get there.
+## Handling package Deliveries
+
+## Our Spaces
+
+Stellar-Chance 310 and offices
+
+## Our Neighbors and co-workers in Stellar-Chance
+
+## Other
+

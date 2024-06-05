@@ -1,7 +1,9 @@
 title: Cheng Molecular Opthalmology
 description: >-
   For introducing new people to the lab and storing our Standard Operation Procedures (SOP).
-theme: just-the-docs
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://yuyanchenglab.github.io" # the base hostname & protocol for your site, e.g. http://example.com

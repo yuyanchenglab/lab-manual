@@ -28,3 +28,7 @@ From there, you can modify the files in this repository and see your changes at 
 When you are happy with the changes, terminate and restart the `bundle exec jekyll serve` command to make sure the site builds properly on your machine. Then commit and push these changes through git. When the main branch is pushed, the website is automatically re-built and re-deployed. It may take up to 10 minutes for changes to appear.
 
 The last step is to ensure that your changes were properly implemented by checking that the website matches what you saw on your machine.
+
+### Operations
+
+Theme, pages, organization, etc

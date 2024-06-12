@@ -15,15 +15,13 @@ nav_order: 4
 
 ## Microscope Procedures
 
-Materials:
+### Materials:
 
 Light microscope with camera & appropriate software
 
 Slide(s) with samples
 
-
-
-Protocol:
+### Protocol:
 
 Turn on power source, laser (may not be necessary for bright field, only for fluorescence), and microscope.
 
@@ -43,17 +41,17 @@ Select the appropriate camera (black and white or color ), and press live camera
 
 Ensure the sample remains focused through the computer screen and adjust exposure to ensure cells are visible and the background is bright.
 
- Click “snap” to take a picture of the sample, and save to the appropriate folder on the computer.
+Click “snap” to take a picture of the sample, and save to the appropriate folder on the computer.
 
- File name should include the name of the experiment, slide number, eye number, magnification level, and date.
+File name should include the name of the experiment, slide number, eye number, magnification level, and date.
 
 When finished taking photos, close the software, return the microscope to the objective with the lowest magnification, push the camera pin all the way in, turn off the light and the microscope.
 
- Turn off the laser, then turn off the power source.
+Turn off the laser, then turn off the power source.
 
 
 
-Results:
+### Results:
 
 Focused, visible photos of the samples on the slides in a .czi file format. Can transfer files to other computers using a flash drive. Can convert .czi files to .jpg using Fiji or other software to be opened on other computers.
 

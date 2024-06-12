@@ -1,4 +1,17 @@
----layout: defaulttitle: Intro to the Biology Labhas_children: falsenav_order: 4---# Intro to the Biology Lab## How to clean the lab to avoid data contamination## How to Pipette## Why we need to do it like this
+---
+layout: default
+title: Intro to the Biology Lab
+has_children: false
+nav_order: 4
+---
+
+# Intro to the Biology Lab
+
+## How to clean the lab to avoid data contamination
+
+## How to Pipette
+
+## Why we need to do it like this
 
 ## Microscope Procedures
 
@@ -44,4 +57,7 @@ Results:
 
 Focused, visible photos of the samples on the slides in a .czi file format. Can transfer files to other computers using a flash drive. Can convert .czi files to .jpg using Fiji or other software to be opened on other computers.
 
-
+
+
+
+

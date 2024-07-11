@@ -14,4 +14,4 @@ _site/
 .bundle/
 vendor/
 
-Gemfile.lock
+# .gitignore can't ignore committed files like Gemfile.lock

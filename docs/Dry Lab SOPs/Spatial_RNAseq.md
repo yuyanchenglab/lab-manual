@@ -3,13 +3,13 @@ layout: default
 title: Spatial RNAseq
 parent: Dry Lab SOPs
 has_children: false
-nav_order: 1
+nav_order: 3
 ---
 
-# Overview of Github 
+# {{page.title}}
 
-# Data Sources
+## Data Sources
 
-# Starting from Public or Private Fastq Files
+## Starting from Public or Private Fastq Files
 
-# Starting from Public Summary Statistics
+## Starting from Public Summary Statistics

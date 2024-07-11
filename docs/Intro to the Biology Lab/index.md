@@ -5,7 +5,7 @@ has_children: false
 nav_order: 4
 ---
 
-# Intro to the Biology Lab
+# {{page.title}}
 
 ## How to clean the lab to avoid data contamination
 

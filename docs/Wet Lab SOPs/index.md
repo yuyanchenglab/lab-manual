@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Wet Lab SOPs
-has_children: false
+has_children: true
 nav_order: 6
 ---
 
-# Wet Lab SOPs
+# {{page.title}}
 
 Here we document the procedure to perform certain techniques in the wet lab.
 

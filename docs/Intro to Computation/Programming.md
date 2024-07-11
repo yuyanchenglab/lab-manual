@@ -23,7 +23,9 @@ if [ $HOSTNAME != "consign.hpc.local" ] &&
 fi 
 ```
 
-This way, we are all working on the same version of R and python and so that you can use some commonly used tools without thinking about it in the future. 
+This way, we are all working on the same version of R and python and so that you can use some commonly used tools without thinking about it in the future.
+
+When coding, we also want to have coding buddies -- explain!
 
 ## Intro to the Command Line
 

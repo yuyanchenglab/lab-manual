@@ -65,3 +65,50 @@ Large boxes can be disposed of by placing them in the hallway. Make sure they ar
 
 ## Students
 
+Log into Workday@Penn and add the Learning app if not already. Click on Learning and select the following learner groups: 
+* Researchers Only - Breeding of Mice
+* Researchers Only - Mice - Direct Work
+* Researchers Only - Survival and or Terminal Surgery - Rodents
+* Biosafety Cabinet Operations
+* Bloodborne Pathogens Safety
+* Laser Safety
+* Laboratory and Biological Safety Main Campus
+* Recombinant or Synthetic Nucleic Acid
+
+Then, the appropriate courses should be assigned to you relatively soon thereafter. If course assignments are not received, select browse learning content and search for and complete each of the courses below (order does not necessarily matter, but the order below may help the trainings make more sense as you go through them).
+
+* Laboratory and Biological Safety at Penn Curriculum-EHRS
+    * Introduction to Laboratory and Biological Safety Part 1-EHRS
+    * Introduction to Laboratory and Biological Safety Part 2-EHRS-online
+* Culture of Care Module - ULAR
+* Mouse Training Curriculum - ULAR
+    * Mouse Training Module - ULAR (in-person; Can't schedule below before this)
+    * Species-Specific Hands-on Training
+* ULAR Facility Tour Prerequisite (once completed, when added to procedure, will receive an email about scheduling below)
+* Facility Tour - ULAR - John Morgan (?)
+* Management of Laboratory Waste - UNIV
+* Biosafety Cabinet Operation - EHRS
+* Bloodborne Pathogens V2
+* Laser Safety Training-EHRS-Online
+    * Laser Safety Training-EHRS
+* Regulations and the IACUC Curriculum - IACUC
+    * Regulations and the IACUC Module
+* Animal User Personal Safety Assurance - ULAR
+    * Animal User Personal Safety Assurance Module - ULAR
+* Recombinant or Synthetic Nucleic Acid Guidelines - EHRS Program
+    * Recombinant or Synthetic Nucleic Acid Guidelines - EHRS
+* Occupational Health and Safety for Laboratory Animal Users - ULAR Curriculum
+    * Occupational Health and Safety for Laboratory Animal Users - ULAR
+* Animal Cage Change Station and Biosafety Cabinet Training- ULAR
+    * Animal Cage Change Station and Biological Safety Cabinet Training - ULAR
+* Rodent Breeding Training Curriculum
+    * Rodent Breeding Training Module - ULAR
+* Inhalation Anesthesia for Rodents - ULAR
+* Aseptic Technique Online Training - ULAR 
+    * Aseptic Technique Training Module - ULAR
+* Heat Support Training Module
+* Protecting Patient Information (HIPAA)/Protecting Patient Information (HIPAA) (UPHS) (equivalent)
+    * Polaris Training Curriculum
+    * Polaris Training Module
+* Cage Card Training Module
+* CO2 Euthanasia in Rodents: Principles and Procedures - ULAR

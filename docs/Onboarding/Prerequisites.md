@@ -100,11 +100,27 @@ Send the following information to Dr. Cheng to initiate the temporary hiring pro
 You will receive an email from UPenn (noreply@upenn.edu) to set up your PennKey username and password. 
 Follow the given instructions, and keep track of your given Penn ID number featured at the end of the email.
 
+### PennCard
+
+For recent graduates and temporary employees, Dr. Cheng will need to submit a [PennCard Request Form](https://penncard.business-services.upenn.edu/penncard-request-form).
+
+[Apply for your first PennCard online.](https://www.campusexpress.upenn.edu/penncard-apply)  Then, [make an appointment at the PennCard Office](https://penncard.business-services.upenn.edu/node/60) to pick up your card. Here is the PennCard center's information:
+
+```
+Address: Penn Bookstore
+	3601 Walnut Street, Room 219, Philadelphia, PA 19104-3895
+Phone: 215-417-2273  
+Email: penncard@upenn.edu
+Web: https://www.upenn.edu/penncard
+```
+
+There is no charge for your initial PennCard or renewal if it expires; other fees may apply for replacement cards.
+
 ### Onboarding Appointment and Task Completion
 
 After receiving your PennKey, log onto Penn Workday [https://www.workday.upenn.edu/](https://www.workday.upenn.edu/) and complete all dashboard tasks before your onboarding appointment. This includes further onboarding procedures such as Section 1 of the work authorization I-9 form.
 
-Before your starting date, create an appointment at the campus’s onboarding center, located at the following address on the 2nd floor:
+Before your starting date, create an appointment at the campus’s onboarding center, it is directly next to the PennCard office and is located at the following address on the 2nd floor:
 
     3601 Walnut St, Philadelphia, PA 19104
 
@@ -112,7 +128,7 @@ Use the following website URL to access appointment booking: [https://www.onboar
 
 This appointment will complete Section 2 of the 1-9 Form.
 
-### Creating UPenn Email
+### Creating Penn Med Email
 
 Submit a UPenn email request on the following website: [https://www.med.upenn.edu/pmacs/request-a-pennmedicine-email-account.html](https://www.med.upenn.edu/pmacs/request-a-pennmedicine-email-account.html)
 
@@ -152,19 +168,9 @@ After finishing all training, notify Dr. Cheng so she may add you to the appropr
 
 Slack is the lab’s primary form of communication. All lab members will use the platform to message one another, along with providing updates for the entire lab when needed.
 
-Create a Slack account using your UPenn email address.
-Request an invite link to the workspace from Jeff, Cass, or Dr. Cheng. This will register you as a member of the lab’s Slack workspace.
+Create a Slack account using your UPenn email address. Request an invite link to the workspace from Jeff, Cass, or Dr. Cheng. This will register you as a member of the lab’s Slack workspace.
 
 To access the workspace, sign into it using the following URL: [yuyanchenglab.slack.com](yuyanchenglab.slack.com)
-
-### Trello Set-Up
-
-Trello is used by the lab to keep track of tasks.
-
-Create a Slack account using a Gmail email address.
-Request an invite link to the Trello board from Jeff, Cass, or Dr. Cheng.
-
-Further instructions on Trello usage are featured on a different protocol on the GitHub site.
 
 ## Postdocs
 
@@ -173,3 +179,9 @@ WIP Possibly Gabrielle
 ## Students
 
 WIP Olivia
+
+### Fellowship Students
+
+* Complete necessary forms regarding the fellowship.
+* Inform Dr. Cheng of the requirements of the fellowship. 
+* Establish regular communication regarding timesheets/progress checks.

@@ -49,8 +49,6 @@ When finished taking photos, close the software, return the microscope to the ob
 
 Turn off the laser, then turn off the power source.
 
-
-
 ### Results:
 
 Focused, visible photos of the samples on the slides in a .czi file format. Can transfer files to other computers using a flash drive. Can convert .czi files to .jpg using Fiji or other software to be opened on other computers.

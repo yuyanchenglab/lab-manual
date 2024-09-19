@@ -8,7 +8,34 @@ has_children: false
 
 # {{page.title}}
 
-In your .bashrc file in your home directory on the HPC server, I suggest you place these lines: 
+When coding, we also want to have coding buddies. This will be something we explore in the future.
+
+## Intro to the Command Line
+
+### Client Access
+
+The command line is where a lot of bioinformatics work is done. You can find setup options on the HPC wiki [here](https://hpcwiki.pmacs.upenn.edu/wiki/index.php/HPC:Login#SSH_Clients).
+
+While Mac users already have the terminal application on their computer, there will be some missing commands. See the Command Line Personalization section on this page for more.
+
+You will also want to install a free FTP client such as WinSCP, CyberDuck or Filezilla to have a GUI to move files to and from the server and your computer. Be sure to use the SFTP option for connection type.
+
+### Logging in
+
+If this is your first time logging in, follow the steps listed on the HPC wiki [here](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Login#First_Login).
+
+Otherwise, in your computer’s terminal, run the following command:
+
+    $ ssh <PMACS_ID>@consign.pmacs.upenn.edu
+
+Make sure to insert your own PMACS ID to replace <PMACS_ID>. 
+It will then ask for your PMACS password. You won't see anything typing, but press Enter after you've typed out your password. You should then see the login screen and be in your home directory on the server.
+
+If you are not asked for your password and the request eventually times out, make sure that you  are connected to the VPN.
+
+#### Command Line Personalization
+
+In your home directory is a file called .bashrc on the HPC server. Your .bashrc file is run whenever you start a new terminal on the server by logging in and run before all of your job submissions. Here are some suggested lines: 
 
 ```
 if [ $HOSTNAME != "consign.hpc.local" ] &&
@@ -25,37 +52,41 @@ fi
 
 This way, we are all working on the same version of R and python and so that you can use some commonly used tools without thinking about it in the future.
 
-There is some software that we've locally installed for the lab, and you can use it by adding this to your .bashrc file:
+There is some software that we've locally installed for the lab, and you can use it by adding this to your .bashrc file in the above `if` statement:
 
 ```
-LAB_SOFTWARE="/project/hipaa_ycheng11lab/software/"
-SOFTBIN="${LAB_SOFTWARE}/bin/"
-PATH=$SOFTBIN:$PATH
-export PATH # This line goes after all of your other PATH stuff
+if [ $HOSTNAME != "consign.hpc.local" ] &&
+   [ $HOSTNAME != "mercury.pmacs.upenn.edu" ] &&
+   [ $HOSTNAME != "hpclogin.pmacs.upenn.edu" ] &&
+   [ $HOSTNAME != "hpclogin1" ]; then
+    # ...
+    LAB_SOFTWARE="/project/hipaa_ycheng11lab/software/"
+    SOFTBIN="${LAB_SOFTWARE}/bin/"
+    PATH=$SOFTBIN:$PATH
+    export PATH # This line goes after all of your other PATH stuff
 
-export CPATH=$LAB_SOFTWARE/include:$CPATH
-export LD_LIBRARY_PATH=$LAB_SOFTWARE/lib:$LD_LIBRARY_PATH
-export LIBRARY_PATH=$LAB_SOFTWARE/lib:$LIBRARY_PATH
+    export CPATH=$LAB_SOFTWARE/include:$CPATH
+    export LD_LIBRARY_PATH=$LAB_SOFTWARE/lib:$LD_LIBRARY_PATH
+    export LIBRARY_PATH=$LAB_SOFTWARE/lib:$LIBRARY_PATH
 
-export PYTHONPATH=/project/hipaa_ycheng11lab/software/python/lib/python3.11/site-packages/:/project/hipaa_ycheng11lab/software/python/bin/:$PYTHONPATH
+    export PYTHONPATH=/project/hipaa_ycheng11lab/software/python/lib/python3.11/site-packages/:/project/hipaa_ycheng11lab/software/python/bin/:$PYTHONPATH
+    # ...
+fi
 ```
 
-When coding, we also want to have coding buddies. This will be something we explore in the future.
+While much of your time will be on the server, you may find the need to use the terminal on your own system.
 
-## Intro to the Command Line
+Mac's should install `homebrew`, a synonymous program to `apt-get`, `yum` or `pip` that will make installing other things easier. Run this command in your terminal:
 
-### Logging in
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-If this is your first time logging in, follow the steps listed on the HPC wiki [here](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Login#First_Login).
+Follow the prompts and then test it out by installing a tool such as `wget`. This command can download files from the internet and is installed like this on MacOS
 
-Otherwise, in your computer’s terminal, run the following command:
+    brew install wget
 
-    $ ssh <PMACS_ID>@consign.pmacs.upenn.edu
+This applies for both Mac and Windows users, but instructions are here for Windows. In MobaXterm, you can go to settings -> configurations and under Terminal Features you can set logging to printable output with timestamps. There have been countless times when having an exact image of commands I ran with timestamps have helped me figure something out.
 
-Make sure to insert your own PMACS ID to replace <PMACS_ID>. 
-It will then ask for your PMACS password. You won't see anything typing, but press Enter after you've typed out your password. You should then see the login screen and be in your home directory on the server.
-
-If you are not asked for your password and the request eventually times out, make sure that you  are connected to the VPN. 
+You can also create SSH sessions for Mercury and Consign on MobaXterm. With this, you can right click on the session, edit session and put in Advanced SSH Settings -> Execute Command `newgrp hipaa_ycheng11lab`. This will make it so that files you create will be fully available to members of our lab.
 
 ### Interactive Nodes
 

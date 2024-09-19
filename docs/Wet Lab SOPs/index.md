@@ -19,7 +19,7 @@ The purpose of this documentation is for:
 * Reproducibility: If your work needs to be double-checked or additional samples are needed, the details here ensure that the procedure is consistent.
 * Followup: If a project is placed on the backburner, your notebook should be able to get you up to speed on the project's last known status.
 
-After you sign up for lab archive, search your Emails in the following weeks for an Email from Lab Archives. They publish marketing emails and provide no opt-out through the website. The Email will have a legally required unsubscribe button in the form of a text hyperlink labelled 'Click here to unsubscribe' in the Email footer. From there, unsubscribe from all of their Marketing Emails.
+After you sign up for lab archive, search your Emails in the following weeks for an Email from Lab Archives. It will have the senders address of info@e.labarchives.com and possibly assigned to an Amy Sutton. These are marketing emails and provide no opt-out through the website. The Email, however, will have a legally required unsubscribe button in the form of a text hyperlink labelled 'Click here to unsubscribe' in the Email footer. From there, unsubscribe from all of their Marketing Emails.
 
 ### General Usage
 

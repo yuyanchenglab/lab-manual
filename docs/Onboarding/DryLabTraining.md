@@ -12,6 +12,6 @@ has_children: false
 
 ## Staff
 
- For this lab, HIPPA and blood/sharp exposure are nec essary.
+ For this lab, HIPPA and blood/sharp exposure are necessary.
 
 ## Students

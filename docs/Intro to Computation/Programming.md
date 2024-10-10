@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Intro to Programming
-nav_order: 2
+nav_order: 20
 parent: Intro to Computation
 has_children: false
 ---

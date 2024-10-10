@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wet Lab Training
-nav_order: 3
+nav_order: 30
 parent: Onboarding
 has_children: false
 ---

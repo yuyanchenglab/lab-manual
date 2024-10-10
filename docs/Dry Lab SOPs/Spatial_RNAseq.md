@@ -3,7 +3,7 @@ layout: default
 title: Spatial RNAseq
 parent: Dry Lab SOPs
 has_children: false
-nav_order: 3
+nav_order: 40
 ---
 
 # {{page.title}}

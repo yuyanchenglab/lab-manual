@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Source Control
-nav_order: 3
+nav_order: 30
 parent: Intro to Computation
 has_children: false
 ---

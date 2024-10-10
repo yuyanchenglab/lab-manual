@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lab Access
-nav_order: 2
+nav_order: 20
 parent: Onboarding
 has_children: false
 ---

@@ -3,7 +3,7 @@ layout: default
 title: Single-Cell ATACseq
 parent: Dry Lab SOPs
 has_children: false
-nav_order: 2
+nav_order: 50
 ---
 
 # {{page.title}}

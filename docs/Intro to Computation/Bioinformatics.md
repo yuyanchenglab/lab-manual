@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Intro to Bioinformatics
-nav_order: 4
+nav_order: 40
 parent: Intro to Computation
 has_children: false
 ---

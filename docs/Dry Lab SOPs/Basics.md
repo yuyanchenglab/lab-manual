@@ -3,7 +3,7 @@ layout: default
 title: Basics
 parent: Dry Lab SOPs
 has_children: false
-nav_order: 1
+nav_order: 10
 ---
 
 # {{page.title}}

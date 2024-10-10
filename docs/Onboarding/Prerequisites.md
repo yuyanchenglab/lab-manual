@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prerequisites
-nav_order: 1
+nav_order: 10
 parent: Onboarding
 has_children: false
 ---

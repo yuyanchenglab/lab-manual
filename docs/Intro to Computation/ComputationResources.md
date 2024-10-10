@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Intro to Computational Resources
-nav_order: 1
+nav_order: 10
 parent: Intro to Computation
 has_children: false
 ---

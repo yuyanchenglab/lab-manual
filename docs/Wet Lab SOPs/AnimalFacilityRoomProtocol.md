@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Animal Facility Room Protocol
-nav_order: 32
 parent: Wet Lab SOPs
 has_children: false
+nav_order: 9
 ---
 
 # {{page.title}}

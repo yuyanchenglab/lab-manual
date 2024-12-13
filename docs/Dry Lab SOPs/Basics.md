@@ -40,7 +40,7 @@ You should see a lot of logging text fill the screen. The important bit is on th
 
 If your output looks like this, copy the second URL with the localhost IP (127.0.0.1:8888). Don't do anything just yet.
 
-#### Window MobaXTerm
+#### Windows MobaXTerm
 
 1) Use the `Tools -> MobaSSHTunnel (port forwarding)` option to pull up a window.
 

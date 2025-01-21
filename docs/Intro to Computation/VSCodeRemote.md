@@ -2,6 +2,7 @@
 layout: default
 title: Setting VS Code for PMACS HPC
 has_children: false
+parent: Intro to Computation
 nav_order: 10
 --- 
 

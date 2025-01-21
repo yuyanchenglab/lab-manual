@@ -3,107 +3,158 @@ layout: default
 title: Setting VS Code for PMACS HPC
 has_children: false
 nav_order: 10
----
+--- 
 
 # Setting Up VS Code for PMACS HPC
 
-This guide will walk you through installing VS Code locally, setting up a remote VS Code server on a PMACS HPC worker node, and tunneling into it. This approach lets you leverage VS Code’s interactive features, such as native notebook support, for your remote workflows on the HPC.
+This guide shows how to install VS Code locally, set up a remote VS Code server on a PMACS HPC worker node, and tunnel into it. It includes two approaches:
 
-### Overview
-1. Install VS Code and the Remote - Tunnels extension.
-2. Install the VS Code CLI on the remote server.
-3. Start an interactive session on the PMACS HPC worker node and run a VS Code server.
-4. Connect to the remote server instance from your local VS Code.
+1. **Interactive Session** (simple, but limited to 8 hours).  
+2. **Alternate Method** (preferred if you want longer sessions).
 
----
+## Quick Overview
 
-### Step 1: Install VS Code Locally
-
-1. Download and install VS Code from the [official download page](https://code.visualstudio.com/download).
-2. Launch VS Code and log in with either your GitHub or Microsoft account. **This login is required to verify and authenticate your remote tunnels**.
-3. In VS Code, install the **Remote - Tunnels** extension by Microsoft from the Extensions Marketplace. This extension is essential for establishing and managing remote tunnels.
+1. Install VS Code and the Remote - Tunnels extension on your local computer.  
+2. Install the VS Code CLI on the PMACS HPC server.  
+3. **Approach A (Interactive):** Start an interactive HPC session, run `code tunnel`, and connect.  
+4. **Approach B (Scripted):** Submit a job script that runs the VS Code server in a non-interactive queue for a longer duration.  
 
 ---
 
-### Step 2: Install the VS Code CLI on the PMACS HPC Server
+## Step 1: Install VS Code Locally
 
-1. **Determine Your Architecture**:
-   - Connect to the PMACS HPC via SSH (to the main cluster, not a worker node).
-   - Run:
-     ```bash
-     uname -m
-     ```
-   - Confirm that the output shows `x86_64`, which indicates 64-bit architecture.
-
-2. **Download the VS Code CLI**:
-   - Download the **VS Code CLI for Alpine Linux (x64)** to `~/.local/bin`:
-     ```bash
-     wget -P ~/.local/bin https://code.visualstudio.com/sha/download?build=stable&os=cli-alpine-x64
-     ```
-   - Unzip the downloaded file:
-     ```bash
-     tar -xvf ~/.local/bin/code-server.tar.gz -C ~/.local/bin
-     ```
-   
-3. **Add `~/.local/bin` to Your PATH** (if not already done):
-   - Append this to your `.bashrc` file:
-     ```bash
-     echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
-     source ~/.bashrc
-     ```
-   - Verify the installation:
-     ```bash
-     which code
-     ```
-   - You should see `~/.local/bin/code` in the output, confirming the CLI is correctly installed.
+1. Download and install VS Code from the [official download page](https://code.visualstudio.com/download).  
+2. Launch VS Code and sign in using GitHub or Microsoft.  
+3. In VS Code, install the **Remote - Tunnels** extension by Microsoft from the Extensions Marketplace.
 
 ---
 
-### Step 3: Start a Remote VS Code Server on a PMACS Worker Node
+## Step 2: Install the VS Code CLI on PMACS HPC
 
-1. **Request an Interactive Node on the PMACS HPC**:
-   - Use the following command to request an interactive session:
-     ```bash
-     bsub -n 4 -R "rusage[mem=8000]" -Is bash
-     ```
-   - Adjust the memory and CPU cores (`-n` and `mem` parameters) as needed for your work.
+1. **Check Architecture**  
+   ```bash
+   uname -m
+   ```  
+   Confirm output is `x86_64`.
 
-2. **Start the VS Code Tunnel**:
-   - Once on the interactive node, start a VS Code tunnel by typing:
-     ```bash
-     code tunnel
-     ```
-   - You will be prompted to log in with your GitHub or Microsoft account to authenticate the tunnel. Follow the instructions to complete this verification.
+2. **Download the VS Code CLI**  
+   ```bash
+   wget -P ~/.local/bin https://code.visualstudio.com/sha/download?build=stable&os=cli-alpine-x64
+   tar -xvf ~/.local/bin/code-server.tar.gz -C ~/.local/bin
+   ```
 
-3. **Confirm Tunnel Startup**:
-   - After successful authentication, the terminal will display a link, showing that the VS Code server is active and accessible through the tunnel.
-
----
-
-### Step 4: Connect to the Remote Instance in Local VS Code
-
-1. **Open the Remote Explorer in VS Code**:
-   - On your local machine, open VS Code and navigate to the **Remote Explorer** tab on the sidebar.
-   - Under **Tunnels**, you should see the active tunnel corresponding to your remote PMACS session.
-
-2. **Connect Using the Command Palette (Optional)**:
-   - Alternatively, open the Command Palette (`Cmd + Shift + P` on macOS or `Ctrl + Shift + P` on Windows/Linux).
-   - Select **Remote-Tunnels: Connect to Remote Tunnel**, and choose your remote PMACS server from the list.
-
-3. **Verify Functionality**:
-   - Open a test file or Jupyter notebook to ensure that you can edit, save, and run code in the remote environment.
-   - Confirm access to files and notebooks, as well as the interactive features you intend to use.
+3. **Add `~/.local/bin` to PATH** (if needed)  
+   ```bash
+   echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
+   source ~/.bashrc
+   which code
+   ```  
+   You should see `~/.local/bin/code` in the output.
 
 ---
 
-### Notes and Troubleshooting
+## Approach A: Using an Interactive Session (Up to 8 Hours)
 
-- **Why Not SSH?** While you can SSH into PMACS, SSH sessions do not persist across worker nodes due to security configurations, and the ability to SSH directly into a worker has been restricted. Using the VS Code tunnel ensures that your session follows you to the worker node for interactive use.
+1. **Request an Interactive Node**  
+   ```bash
+   bsub -n 4 -R "rusage[mem=8000]" -Is bash
+   ```  
+   Adjust CPU and memory as needed. By default, interactive queue limits sessions to around 8 hours. You can check queue limits using:
+   ```bash
+   bqueues -l interactive
+   ```
 
-- **Connection Issues**: If your remote tunnel does not appear in the Remote Explorer, try reloading the VS Code window (`Cmd + R` or `Ctrl + R`) or restarting the tunnel with `code tunnel` in the remote terminal.
+2. **Start the VS Code Tunnel**  
+   ```bash
+   code tunnel
+   ```  
+   Authenticate if prompted. You’ll see a link in the terminal once the server is ready.
 
-- **Additional Configurations**: If you encounter any limitations on memory, CPU cores, or Jupyter notebook access, you may need to adjust the parameters for your interactive session or consult PMACS documentation for further resource options.
+3. **Connect Locally**  
+   - In your local VS Code, open the **Remote Explorer** side panel.  
+   - Under **Tunnels**, you should see your PMACS session. Click to connect.  
+   - Alternatively, use the Command Palette, search for **Remote-Tunnels: Connect to Remote Tunnel**, and pick the PMACS session.
 
 ---
 
-With these steps, you should have a fully functional VS Code setup on the PMACS HPC for Penn Medicine, enabling efficient coding, notebook execution, and resource management on the remote server. Enjoy using VS Code to simplify your remote workflows!
+## Approach B: Submitting a Script for Longer Sessions
+
+Use this method if you need more than 8 hours. You’ll submit a job to a queue that has a longer time limit (e.g., normal queue).  
+
+### 1. Pre-Authenticate (Optional but Recommended)
+
+Before you submit your script, make sure you’re logged in to VS Code Tunnels on the HPC. This avoids having to grab a device code while the job runs.
+
+```bash
+code tunnel user login --provider github
+code tunnel user show
+```
+
+If you see an active account, you’re ready.
+
+### 2. Create a Submission Script
+
+Below is an example script (call it `vscode_server.sh`) that requests 48 hours:
+
+```bash
+#!/bin/bash
+#BSUB -J  vscode_server       # Job name
+#BSUB -W 48:00                # Wall time
+#BSUB -n 4                    # Number of cores
+#BSUB -M 51200                # 50GB of memory total
+#BSUB -o vscode.%J.log        # Standard output log
+#BSUB -e vscode.%J.error      # Standard error log
+
+# Load any needed modules here
+# Example: module load python
+
+# Run the VS Code tunnel
+code tunnel --accept-server-license-terms
+```
+
+Adjust resources (`-W`, `-n`, `-M`) based on your needs.
+
+### 3. Submit the Script
+
+From the HPC login node, run:
+
+```bash
+bsub < vscode_server.sh
+```
+
+Take note of the job ID printed to the screen (e.g., `<86979279>`).
+
+### 4. Check Job Output and Tunnel Status
+
+Use `bpeek` to view output while the job runs:
+
+```bash
+bpeek <JobID>
+```
+
+If you’re not pre-authenticated, the output might show something like:
+
+```
+To grant access to the server, please log into https://github.com/login/device and use code 87B9-A3B8
+```
+
+Go to that URL on your local machine, enter the code, and complete authentication.
+
+### 5. Connect From Your Local VS Code
+
+- Once the server is up, open VS Code on your local machine.  
+- Go to the **Remote Explorer**. Under **Tunnels**, look for your HPC job.  
+- Or use the Command Palette: **Remote-Tunnels: Connect to Remote Tunnel** and select the PMACS HPC session.
+
+At this point, you should be able to open files, notebooks, and terminals through your local VS Code, with the job potentially running for up to the time limit you requested (`-W 48:00` in the script).
+
+---
+
+## Notes and Troubleshooting
+
+- **Why Tunnels Instead of SSH?** SSH access into worker nodes is restricted and sessions don’t persist across HPC worker node changes. The VS Code tunnel follows you to the worker node.  
+- **Queue Limits**: The interactive queue has shorter limits (often 8 hours). To see details, run `bqueues -l interactive`. If you need more time, submit to a different queue with higher limits.  
+- **Stuck Tunnel?** If the remote tunnel doesn’t appear, reload your local VS Code window (`Ctrl+R` or `Cmd+R`) or rerun the script.  
+- **Resource Adjustments**: If you need more memory or CPU, update `-n` and `-M` in your job script.  
+
+By following these steps, you can keep a long-running VS Code server session active on PMACS HPC, allowing you to work interactively on your remote code and data without worry of hitting the 8-hour limit.

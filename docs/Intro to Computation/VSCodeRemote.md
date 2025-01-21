@@ -7,7 +7,7 @@ nav_order: 10
 
 # Setting Up VS Code for PMACS HPC
 
-This guide shows how to install VS Code locally, set up a remote VS Code server on a PMACS HPC worker node, and tunnel into it. It includes two approaches:
+This guide will walk you through installing VS Code locally, setting up a remote VS Code server on a PMACS HPC worker node, and tunneling into it. This approach lets you leverage VS Code’s interactive features, such as native notebook support, for your remote workflows on the HPC. It includes two approaches:
 
 1. **Interactive Session** (simple, but limited to 8 hours).  
 2. **Alternate Method** (preferred if you want longer sessions).
@@ -24,7 +24,7 @@ This guide shows how to install VS Code locally, set up a remote VS Code server 
 ## Step 1: Install VS Code Locally
 
 1. Download and install VS Code from the [official download page](https://code.visualstudio.com/download).  
-2. Launch VS Code and sign in using GitHub or Microsoft.  
+2. Launch VS Code and sign in using GitHub or Microsoft. **This login is required to verify and authenticate your remote tunnels**.
 3. In VS Code, install the **Remote - Tunnels** extension by Microsoft from the Extensions Marketplace.
 
 ---

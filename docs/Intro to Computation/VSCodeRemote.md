@@ -40,7 +40,7 @@ This guide will walk you through installing VS Code locally, setting up a remote
 
 2. **Download the VS Code CLI**  
    ```bash
-   wget -P ~/.local/bin https://code.visualstudio.com/sha/download?build=stable&os=cli-alpine-x64
+   wget -P ~/.local/bin "https://code.visualstudio.com/sha/download?build=stable&os=cli-alpine-x64"
    tar -xvf ~/.local/bin/code-server.tar.gz -C ~/.local/bin
    ```
 

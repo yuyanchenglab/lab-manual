@@ -8,9 +8,11 @@ has_children: false
 
 # {{page.title}}
 
+<!--This page needs to be split so that people don't have to wade through unnecessary text.-->
+
 ## Permanent Staff
 
-The general process for onboarding staff of the University of Pennsylvania (UPenn) can be found here: [Onboard@Penn](https://www.onboard.upenn.edu/)
+The general process for onboarding staff at the University of Pennsylvania (UPenn) can be found here: [Onboard@Penn](https://www.onboard.upenn.edu/)
 
 This page is specifically for joining our lab as a researcher and catalogues any hitches that may not be explained through the above resource.
 
@@ -61,17 +63,17 @@ PennKey: ChengYu
 
 You or Dr. Cheng should receive an email with your new Penn Medicine email name and a temporary login. You should log into it through [idp.pennmedicine.upenn.edu](idp.pennmedicine.upenn.edu) and choose a more permanent password. That password will be distinct from your other accounts. Make sure to commit all of your password assignments to memory. After you set up your Penn medicine account, your pennkey@upenn.edu email will lose all information when your pennkey@pennmedicine.upenn.edu is added and all future email to pennkey@upenn.edu should forward to your Penn Medicine account.
 
-From here, you can use your Penn Medicine account to [request a PMACS account](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Main_Page#Accounts) to work on the High Throughput Computing (HPC) cluster. You should also bookmark this website as it is a useful resource for properly using the HPC cluster.
+From here, you can use your Penn Medicine email to request a PMACS account to work on the High Throughput Computing (HPC) cluster. The instructions are on the [HPC Wiki's Main Page->Accounts section](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Main_Page#Accounts). You should also bookmark this wiki as a useful resource.
 
 You should also be able begin your virtual Workday onboarding lessons. For this lab, HIPPA and blood/sharp exposure are necessary. Each lesson could last up to 30 minutes.
 
-Your next responsibilities will become available to you on your first official day of employment as specified in your offer letter.
+Your next responsibilities will become available to you on your your offer letter's first day of employment.
 
 ### In-Person Tasks: Part 2
 
 On your first day of official employment, you should go to the card office neighboring the Onboard@Penn office in the bookstore. Unless there are unfinished tasks on your Workday (besides the lessons) or you have paperwork that needs corrections, you should receive your PennCard.
 
-Take a photo of your PennCard and email that picture to Dr. Cheng. She will use that to grant you access to the building. If you don't have your card for any reason, contact us and we will let you in.
+Take a photo of your PennCard and email that picture to Dr. Cheng. She will use that to grant you access to our building. If you don't have your card for any reason, contact us and we will let you in.
 
 Connect to the school wifi here: [https://www.isc.upenn.edu/how-to/connect-airpennnet-and-joinnow](https://www.isc.upenn.edu/how-to/connect-airpennnet-and-joinnow)
 
@@ -81,9 +83,18 @@ Connect to the lab printer, an HP Color LaserJet Pro M478f-9f with an IP address
 
 Begin the virtual onboarding video lessons. There are quite a few of them lasting several hours, and they cover a wide variety of topics about life at Penn and responsible conduct. Including the lessons available before your first day, there will be several CITI-training lessons for you. When you finish these, there will be an in-person onboarding session that will last around 4 hours that you will sign up for and must attend within the first few months of hiring. Schedule that appropriately.
 
-### Final Tasks
+### Final Task
 
-There are some tasks from this point that depend on your employed role. Please use the navigation pane of this site to find the appropriate one for you.
+Send an email with the following information to jeffrey.maurer@pennmedicine.upenn.edu, cassidy.poon@pennmedicine.upenn.edu and yuyan.cheng@pennmedicine.upenn.edu:
+
+* Pennmed email
+* Your personal gmail
+* Your github username
+* Your birthday
+
+We will use this information to send you account invites for github, the lab google calendar and Slack.
+
+Slack is the lab’s primary form of communication. Sign into it using the following URL: [yuyanchenglab.slack.com](yuyanchenglab.slack.com)
 
 ## Temporary Staff
 

@@ -71,13 +71,10 @@ Additional resources:
 Give Yuyan or Jeff your preferred email address and we will invite you to: 
 
 * Slack for quick messaging in the lab 
-* The Lab Google calendar for scheduling and to include your birthday for the birthday calendar! 
-* Trello for organization of our projects and lab (we may move away from it in favor of Slack Lists) 
+* The Lab Google calendar for scheduling and to include your birthday for the birthday calendar!
 * Labarchives for your own digital lab notebook. This is very important. 
 
 ## Printers and Other Equipment
-
-WIP
 
 The lab printer, an HP Color LaserJet Pro M478f-9f, has an IP address of 130.91.197.113
 

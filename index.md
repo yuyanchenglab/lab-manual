@@ -6,10 +6,6 @@ description: "Welcome"
 permalink: /
 ---
 
-<!--https://stackoverflow.com/q/30551501/25949622-->
-
-<link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
-
 # Welcome to the ChengLab@UPenn Manual!
 
 This is the internal website for the ChengLab@UPenn lab's onboarding and a repository for our Standard Operating Procedures (SOP).

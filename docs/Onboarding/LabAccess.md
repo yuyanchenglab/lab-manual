@@ -46,9 +46,9 @@ Manager's information:
     Email: yuyan.cheng@pennmedicine.upenn.edu
     PennKey: ycheng11
 
-Dr. Cheng will receive an email when the account has been created. It will include all necessary information to set up the account.
+Dr. Cheng will receive an email when the account has been created and forward it to you. It will include all necessary information to set up the account including a temporary password that expires.
 
-## PMACS Account for Compute
+## PMACS HPC Account
 
 Email Dr. Cheng with the following information for access to folders in the PMACS server:
 
@@ -63,7 +63,6 @@ You should receive an email with the next steps. If you are in the dry lab, you 
 Additional resources:
 * First login steps: [https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Login#First_Login](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Login#First_Login)
 * General cluster usage information: [https://hpcwiki.pmacs.upenn.edu/index.php/HPC:User_Guide](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:User_Guide)
-* Weekly office hours information: [https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Main_Page#Weekly_Office_Hours](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Main_Page#Weekly_Office_Hours)
 * Email for questions/issues: [psom-pmacshpc@pennmedicine.upenn.edu](psom-pmacshpc@pennmedicine.upenn.edu)
 
 ## Lab Communication

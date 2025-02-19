@@ -5,7 +5,7 @@ parent: Dry Lab SOPs
 has_children: false
 nav_order: 10
 ---
-
+<!--Merge this page with intro to computation and Dry Lab SOP index-->
 # {{page.title}}
 
 ## Overview of how to use PMACS

@@ -8,6 +8,8 @@ nav_order: 15
 
 # {{page.title}}
 
+With access to the PMACS server from [Intro to Computational Resources](ComputationResources.html), here are some IDE options. 
+
  * [VS Code](#VS-Code)
  * [Jupyter Notebook](#Jupyter-Notebook)
 

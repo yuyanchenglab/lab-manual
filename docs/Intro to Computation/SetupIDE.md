@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coding Environment Setup (VSCode/Jupyter)
+title: IDE Setup
 has_children: false
 parent: Intro to Computation
 nav_order: 10

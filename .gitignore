@@ -15,3 +15,5 @@ _site/
 vendor/
 
 # .gitignore can't ignore committed files like Gemfile.lock
+Gemfile.lock # Local computers have different configurations than Github
+.DS_Store # Stupid MacOS

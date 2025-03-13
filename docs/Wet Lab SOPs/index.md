@@ -23,9 +23,11 @@ After you sign up for lab archive, search your Emails in the following weeks for
 
 ### General Usage
 
-<img src="/assets/images/NewItemLabArchiveNotebook.png" alt="New Item" width="200"/>
+<img src="../../assets/images/NewItemLabArchiveNotebook.png" alt="New Item" width="200"/> 
 
-![Each page can have multiple sections](/assets/images/NewSectionInPageLabArchiveNotebook.png)
+Each page can have multiple sections:
+
+<img src="/lab-manual/assets/images/NewSectionInPageLabArchiveNotebook.png" alt="Multiple Sections" width="200"/>
 
 Make sure to click “save to page” before exiting document.
 
@@ -42,7 +44,7 @@ All changes are kept in a history, but for consistency with physical notebooks y
 
 Example:
 
-![](/assets/images/ExampleProcedureLabArchiveNotebook.png)
+<img src="/assets/images/ExampleProcedureLabArchiveNotebook.png" alt="strikethrough mistakes" width="200"/>
 
 ### DAILY REPORTS 
 

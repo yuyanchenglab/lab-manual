@@ -4,14 +4,14 @@ description: >-
 theme: just-the-docs
 color_scheme: dark
 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://yuyanchenglab.github.io/lab-manual" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/lab-manual" # the subpath of your site, e.g. /blog
+url: "https://yuyanchenglab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 github_username:  yuyanchenglab
 # permalink: pretty
 
 aux_links:
-  Source: https://github.com/yuyanchenglab/lab-manual
+  Source: https://github.com/yuyanchenglab/
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter

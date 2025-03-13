@@ -7,8 +7,6 @@ nav_order: 5
 
 # {{page.title}}
 
-## Penn Resources in General
-
 ## Spare keys
 
 There is a spare key to the 309 office suite. Ask a lab member for access to it.
@@ -19,7 +17,7 @@ The Yuyan lab keeps office supplies in the lab in 310. They are inside a cabinet
 
 ## Technical Support
 
-Contact Bala using the PMACS support email.
+Contact Bala using the PMACS support email: [psom-pmacshpc@pennmedicine.upenn.edu](psom-pmacshpc@pennmedicine.upenn.edu)
 
 ## Concur Reimbursement
 
@@ -82,7 +80,3 @@ From here, you can modify the files in this repository and see your changes at t
 When you are happy with the changes, terminate and restart the `bundle exec jekyll serve` command to make sure the site builds properly on your machine. Then commit and push these changes through git if you are an administrator. If not, either send the content to the administrator through messaging or a git pull request. Do not push your local `Gemfile.lock`. When the main branch is pushed, the website is automatically re-built and re-deployed. It may take up to 10 minutes for changes to appear.
 
 The last step is to ensure that your changes were properly implemented by checking that the website matches what you saw on your machine.
-
-### Operations
-
-Theme, pages, organization, etc

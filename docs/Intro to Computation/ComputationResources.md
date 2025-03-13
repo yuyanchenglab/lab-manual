@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Intro to Computational Resources
+title: Computational Resources
 nav_order: 10
 parent: Intro to Computation
 has_children: false
@@ -29,7 +29,7 @@ PMACS resources:
 
 ## PMACS Etiquette
 
-Please do not use the Consign headnode for work, log into an interactive session or Mercury for file transfer. If you ask too much of consign, your command will be reaped. Don't rely on that safeguard, we want to be responsible users and good stewards of the server since access is a privilege.
+Please do not use the Consign headnode for work. Use it to log into an interactive session or use Mercury when transferring files. If you ask too much of Consign, your command will be reaped. Don't rely on that safeguard, we want to be responsible users and good stewards of the server since access is a privilege.
 
 ## Computing through VPN
 
@@ -40,7 +40,7 @@ To access the rstudio/posix server or the PMACS cluster off-campus, you must hav
 
 The instructions are slightly outdated as we no longer use the Pulse Secure client and instead use the Ivanti Secure Access client with the following icon:
 
-<img src="/assets/images/IvantiSecureAccessIcon.webp" alt="drawing" width="50"/>
+<img src="../../assets/images/IvantiSecureAccessIcon.webp" alt="drawing" width="50"/>
 
 Everytime you connect to the VPN, it will ask for two factor authentication. There are three options:
 

@@ -23,11 +23,11 @@ After you sign up for lab archive, search your Emails in the following weeks for
 
 ### General Usage
 
-<img src="../../assets/images/NewItemLabArchiveNotebook.png" alt="New Item" width="200"/> 
+<img src="/lab-manual/assets/images/NewItemLabArchiveNotebook.png" alt="New Item" width="200"/>
 
 Each page can have multiple sections:
 
-<img src="/lab-manual/assets/images/NewSectionInPageLabArchiveNotebook.png" alt="Multiple Sections" width="200"/>
+![](/lab-manual/assets/images/NewSectionInPageLabArchiveNotebook.png)
 
 Make sure to click “save to page” before exiting document.
 
@@ -44,7 +44,7 @@ All changes are kept in a history, but for consistency with physical notebooks y
 
 Example:
 
-<img src="/assets/images/ExampleProcedureLabArchiveNotebook.png" alt="strikethrough mistakes" width="200"/>
+![](/lab-manual/assets/images/ExampleProcedureLabArchiveNotebook.png)
 
 ### DAILY REPORTS 
 
@@ -54,7 +54,7 @@ Make sure to include results and any analyses to get those results.
 
 Example:
 
-![](/assets/images/ExampleDailyLogLabArchiveNotebook.png)
+![](/lab-manual/assets/images/ExampleDailyLogLabArchiveNotebook.png)
 
 ## Reiterate some of the introduction materials with more details and at a higher resolution
 
@@ -87,4 +87,4 @@ Tape the lid to the styrofoam box. Tape the second copy of the packing slip/CSS 
 
 The pick-up team will arrive within the given time frame to receive the package.
 
-![](/assets/images/NovogeneSamplePackaging.png)
+![](/lab-manual/assets/images/NovogeneSamplePackaging.jpg)

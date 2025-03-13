@@ -40,7 +40,7 @@ To access the rstudio/posix server or the PMACS cluster off-campus, you must hav
 
 The instructions are slightly outdated as we no longer use the Pulse Secure client and instead use the Ivanti Secure Access client with the following icon:
 
-<img src="../../assets/images/IvantiSecureAccessIcon.webp" alt="drawing" width="50"/>
+<img src="/lab-manual/assets/images/IvantiSecureAccessIcon.webp" alt="drawing" width="50"/> 
 
 Everytime you connect to the VPN, it will ask for two factor authentication. There are three options:
 

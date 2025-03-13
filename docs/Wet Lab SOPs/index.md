@@ -67,10 +67,7 @@ Send the purchase order to Reighard Pullins from Novogene (Reighard.Pullins@novo
 
 ### Accessing Novogene Customer Service System
 
-Log into https://cssamerica.novogene.com/ using the following login information:
-
-Novogene username: Yuyan.Cheng@pennmedicine.upenn.edu
-Password: SLCChenglab310B
+Log into https://cssamerica.novogene.com/ using the lab's login information. Ask a lab member for access.
 
 On the left side, click on Send Samples. Upload the sample information to the according project.
 Once the form is approved, you’ll receive a confirmation email with the packing slip document.

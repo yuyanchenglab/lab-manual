@@ -15,3 +15,5 @@ has_children: false
  For this lab, HIPPA and blood/sharp exposure are necessary.
 
 ## Students
+
+Visit the "Lab Resources" and "Intro to..." pages of this site for additional information.

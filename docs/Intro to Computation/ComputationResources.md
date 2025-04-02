@@ -8,8 +8,6 @@ has_children: false
 
 # {{page.title}}
 
-To proceed, you should have a PennMed Email as described here in [Onboarding/LabAccess](../Onboarding/LabAccess.html#penn-medicine-email).
-
 ## PMACS Access
 
 Email Dr. Cheng with the following information for access to folders in the PMACS server:

@@ -189,7 +189,35 @@ WIP Possibly Gabrielle
 
 ## Students
 
-WIP Olivia
+Your onboarding will consist mainly of emails asking for access.
+
+From here, email a request for a PMACS account to work on the High Throughput Computing (HPC) cluster. The instructions are on the [HPC Wiki's Main Page->Accounts section](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Main_Page#Accounts). 
+
+Use the following information to complete the Manager Information section:
+
+```
+Yuyan Cheng
+305-778-6357
+yuyan.cheng@pennmedicine.upenn.edu
+PennKey: ChengYu
+```
+
+If you will be working in the dry lab, send an email after you set up your account asking for access to the GPU queues and the Posix server.
+
+The floor outside of work hours, the building, and the lab each require card access. You should message Dr. Cheng with a photo of your PennCard with your PennCard number to grant you this access. She will Email Darren Johnson at [darrenj@pennmedicine.upenn.edu](darrenj@pennmedicine.upenn.edu) to request access to Stellar Chance, BRB, John Morgan, CRB entrances, and Stellar Chance's 3rd floor elevator lobby.
+
+Send another email with the following information to jeffrey.maurer@pennmedicine.upenn.edu, cassidy.poon@pennmedicine.upenn.edu and yuyan.cheng@pennmedicine.upenn.edu:
+
+* Pennmed email
+* Your personal gmail
+* Your github username
+* Your birthday
+
+We will use this information to send you account invites for github, the lab google calendar and Slack.
+
+Slack is the lab’s primary form of communication. Sign into it using the following URL: [yuyanchenglab.slack.com](yuyanchenglab.slack.com)
+
+Follow up this section with "Lab Resources" and "Intro to..." your respective focus, wet or dry lab.
 
 ### Fellowship Students
 

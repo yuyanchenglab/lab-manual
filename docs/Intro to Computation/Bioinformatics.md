@@ -20,13 +20,13 @@ DNA is transcribed into RNA and translated into proteins.
 
 ## Pairing Desired Information with Data Type
 
-RNAseq
-ATACseq
-CutNRun
-HiChIPseq
-single cell RNAseq
-single cell ATACseq
-spatial RNAseq
+* Bulk RNA-seq: Cheap, broad characterization of expression
+* Bulk ATAC-seq: Broad characterization of epigenome
+* CutNRun:
+* HiChIP-seq: Broad characterization of chromatin configuration
+* Single Cell RNA-seq: Precise characterization of expression clustered by cell type
+* Single Cell ATAC-seq: Precise characterization of epigenome clustered by cell type
+* Spatial Transcriptomics: Precise characterization of genes of interest in situ; Cell-Cell Communication
 
 ## External Resources
 

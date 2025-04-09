@@ -31,6 +31,8 @@ If you ever experience a lockout, you may go to security on the first floor of S
 
 ## Penn Medicine Email
 
+This task is optional for most positions.
+
 Request a Penn Medicine email here: [https://www.med.upenn.edu/pmacs/request-a-pennmedicine-email-account.html](https://www.med.upenn.edu/pmacs/request-a-pennmedicine-email-account.html)
 
 User’s information:
@@ -67,11 +69,15 @@ Additional resources:
 
 ## Lab Communication
 
-Give Yuyan or Jeff your preferred email address and we will invite you to: 
+Give Cass, Dr. Cheng or Jeff your Penn email and we will invite you to: 
 
 * Slack for quick messaging in the lab 
 * The Lab Google calendar for scheduling and to include your birthday for the birthday calendar!
-* Labarchives for your own digital lab notebook. This is very important. 
+* Labarchives for your own digital lab notebook. This is very important.
+
+## File Sharing
+
+The lab has a Box and Google Drive with important files. Access instructions are a WIP.
 
 ## Printers and Other Equipment
 

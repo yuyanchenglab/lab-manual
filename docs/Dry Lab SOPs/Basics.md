@@ -8,9 +8,9 @@ nav_order: 10
 <!--Merge this page with intro to computation and Dry Lab SOP index-->
 # {{page.title}}
 
-## Overview of how to use PMACS
+## PMACS HPC Usage
 
-Refer to Wiki and Bala.
+Refer to the [HPC wiki](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:User_Guide) and if that is not sufficient, email HPC support at [psom-pmacshpc@pennmedicine.upenn.edu](psom-pmacshpc@pennmedicine.upenn.edu). Bala is typically the one to answer questions to this account.
 
 ### Port Forwarding for Jupyter Notebooks
 

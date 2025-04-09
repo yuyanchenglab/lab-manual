@@ -202,6 +202,8 @@ We will use this information to send you account invites for Github, the lab Goo
 
 Slack is the lab’s primary form of communication. After you accept the invitation, sign in at the following URL: [yuyanchenglab.slack.com](yuyanchenglab.slack.com)
 
+The floor outside of work hours, the building, and the lab each require card access. Email Dr. Cheng a photo of your PennCard with your PennID number to grant you this access.
+
 Email a request for a PMACS account to work on the High Throughput Computing (HPC) cluster. The instructions are on the [HPC Wiki's Main Page->Accounts section](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Main_Page#Accounts). 
 
 Use the following information to complete the Manager Information section:
@@ -214,8 +216,6 @@ PennKey: ChengYu
 ```
 
 Once you've created an account, dry lab students should send an email to [psom-pmacshpc@pennmedicine.upenn.edu](psom-pmacshpc@pennmedicine.upenn.edu) to politely ask for access to the GPU queues and the Rstudio/Posix server.
-
-The floor outside of work hours, the building, and the lab each require card access. Email Dr. Cheng a photo of your PennCard with your PennID number to grant you this access.
 
 Follow up this section with "Lab Resources" and "Intro to..." your respective focus, wet or dry lab.
 

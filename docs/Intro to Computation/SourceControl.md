@@ -30,6 +30,4 @@ In .gitignore, add "\*_small\*" and "\*_toy\*" for projects where new ground wil
 
 ## Intro to Virtual Environments
 
-WIP
-
-The hippa directory has a software directory that has a virtual environment directory. Usage has not been fully described.
+The lab's hippa directory has a software directory that has a virtual environment subdirectory. Read the README.md file for usage. We intend for all analyses to be done in a virtual environment in the future to ensure our work is fully and easily reproducible.

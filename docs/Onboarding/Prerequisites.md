@@ -194,8 +194,8 @@ Your onboarding will consist mainly of requesting access.
 Email the following information to jeffrey.maurer@pennmedicine.upenn.edu, cassidy.poon@pennmedicine.upenn.edu and yuyan.cheng@pennmedicine.upenn.edu:
 
 * Penn email
-* Your personal gmail (if you have)
 * Your Github username (if you have)
+* Your personal gmail (if you have)
 * Your birthday
 
 We will use this information to send you account invites for Github, the lab Google calendar and Slack.
@@ -215,7 +215,7 @@ yuyan.cheng@pennmedicine.upenn.edu
 PennKey: ChengYu
 ```
 
-Once you've created an account, dry lab students should send an email to [psom-pmacshpc@pennmedicine.upenn.edu](psom-pmacshpc@pennmedicine.upenn.edu) to politely ask for access to the GPU queues and the Rstudio/Posix server.
+Once you've created an account, dry lab students email [psom-pmacshpc@pennmedicine.upenn.edu](psom-pmacshpc@pennmedicine.upenn.edu) to politely ask for access to the GPU queues and the Rstudio/Posix server.
 
 Follow up this section with "Lab Resources" and "Intro to..." your respective focus, wet or dry lab.
 

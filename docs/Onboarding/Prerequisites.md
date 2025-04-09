@@ -191,16 +191,16 @@ WIP Possibly Gabrielle
 
 Your onboarding will consist mainly of requesting access.
 
-Send another email with the following information to jeffrey.maurer@pennmedicine.upenn.edu, cassidy.poon@pennmedicine.upenn.edu and yuyan.cheng@pennmedicine.upenn.edu:
+Email the following information to jeffrey.maurer@pennmedicine.upenn.edu, cassidy.poon@pennmedicine.upenn.edu and yuyan.cheng@pennmedicine.upenn.edu:
 
 * Penn email
-* Your personal gmail
-* Your github username
+* Your personal gmail (if you have)
+* Your Github username (if you have)
 * Your birthday
 
-We will use this information to send you account invites for github, the lab google calendar and Slack.
+We will use this information to send you account invites for Github, the lab Google calendar and Slack.
 
-Slack is the lab’s primary form of communication. Sign into it using the following URL: [yuyanchenglab.slack.com](yuyanchenglab.slack.com)
+Slack is the lab’s primary form of communication. After you accept the invitation, sign in at the following URL: [yuyanchenglab.slack.com](yuyanchenglab.slack.com)
 
 Email a request for a PMACS account to work on the High Throughput Computing (HPC) cluster. The instructions are on the [HPC Wiki's Main Page->Accounts section](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Main_Page#Accounts). 
 

@@ -31,26 +31,11 @@ Otherwise, in your computer’s terminal, run the following command:
 Make sure to insert your own PMACS ID to replace <PMACS_ID>. 
 It will then ask for your PMACS password. You won't see anything typing, but press Enter after you've typed out your password. You should then see the login screen and be in your home directory on the server.
 
-If you are not asked for your password and the request eventually times out, make sure that you  are connected to the VPN.
+If you are not asked for your password and the request eventually times out for no discernable reason, make sure that you are connected to the VPN.
 
 #### Command Line Personalization
 
-In your home directory is a file called .bashrc on the HPC server. Your .bashrc file is run whenever you start a new terminal on the server by logging in and run before all of your job submissions. Here are some suggested lines: 
-
-```
-if [ $HOSTNAME != "consign.hpc.local" ] &&
-   [ $HOSTNAME != "mercury.pmacs.upenn.edu" ] &&
-   [ $HOSTNAME != "hpclogin.pmacs.upenn.edu" ] &&
-   [ $HOSTNAME != "hpclogin1" ]; then
-    module load R4.3
-    module load python/3.11
-    module load sratoolkit/3.1.0
-    module load curl
-    module load fastqc/0.11.7
-fi 
-```
-
-This way, we are all working on the same version of R and python and so that you can use some commonly used tools without thinking about it in the future.
+In your home directory is a file called .bashrc on the HPC server. Your .bashrc file is run whenever you start a new terminal on the server by logging in and run before all of your job submissions. Feel free to perform some customization to make your work feel more enjoyable.
 
 There is some software that we've locally installed for the lab, and you can use it by adding this to your .bashrc file in the above `if` statement:
 
@@ -65,11 +50,6 @@ if [ $HOSTNAME != "consign.hpc.local" ] &&
     PATH=$SOFTBIN:$PATH
     export PATH # This line goes after all of your other PATH stuff
 
-    export CPATH=$LAB_SOFTWARE/include:$CPATH
-    export LD_LIBRARY_PATH=$LAB_SOFTWARE/lib:$LD_LIBRARY_PATH
-    export LIBRARY_PATH=$LAB_SOFTWARE/lib:$LIBRARY_PATH
-
-    export PYTHONPATH=/project/hipaa_ycheng11lab/software/python/lib/python3.11/site-packages/:/project/hipaa_ycheng11lab/software/python/bin/:$PYTHONPATH
     # ...
 fi
 ```
@@ -80,7 +60,7 @@ Mac's should install `homebrew`, a synonymous program to `apt-get`, `yum` or `pi
 
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-Follow the prompts and then test it out by installing a tool such as `wget`. This command can download files from the internet and is installed like this on MacOS
+Follow the prompts and then test it out by installing a tool such as `wget`. This command can download files from the internet and is installed like this on MacOS:
 
     brew install wget
 

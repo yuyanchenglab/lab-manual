@@ -204,7 +204,7 @@ Slack is the lab’s primary form of communication. After you accept the invitat
 
 The floor outside of work hours, the building, and the lab each require card access. Email Dr. Cheng a photo of your PennCard with your PennID number to grant you this access.
 
-Email a request for a PMACS account to work on the High Throughput Computing (HPC) cluster. The instructions are on the [HPC Wiki's Main Page->Accounts section](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Main_Page#Accounts). 
+Request for a PMACS account to work on the High Throughput Computing (HPC) cluster. The instructions are on the [HPC Wiki's Main Page->Accounts section](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Main_Page#Accounts). 
 
 Use the following information to complete the Manager Information section:
 

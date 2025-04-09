@@ -185,7 +185,9 @@ To access the workspace, sign into it using the following URL: [yuyanchenglab.sl
 
 ## Postdocs
 
-WIP Possibly Gabrielle
+In addition to the virtual work needed by full-time staff, postdocs are expected to upload proof of degree.
+
+Postdocs will also receive an email from the Academics Programs Coordinator, currently Donna Crowley, about one required and one optional virtual orientation. They are hosted by The Office of Postdoctoral Affairs (OPA) and the Biomedical Postdoctoral Programs (BPP). The formal orientation is held each January and August/September and you are required to go to one of them, preferably the earliest one post-hire.
 
 ## Students
 
@@ -194,9 +196,11 @@ Your onboarding will consist mainly of requesting access.
 Email the following information to jeffrey.maurer@pennmedicine.upenn.edu, cassidy.poon@pennmedicine.upenn.edu and yuyan.cheng@pennmedicine.upenn.edu:
 
 * Penn email
-* Your Github username (if you have)
-* Your personal gmail (if you have)
-* Your birthday
+* Professional headshot
+* Class schedule
+* Github username (if you have)
+* Personal gmail (if you have)
+* Birthday
 
 We will use this information to send you account invites for Github, the lab Google calendar and Slack.
 
@@ -215,7 +219,9 @@ yuyan.cheng@pennmedicine.upenn.edu
 PennKey: ChengYu
 ```
 
-Once you've created an account, dry lab students email [psom-pmacshpc@pennmedicine.upenn.edu](psom-pmacshpc@pennmedicine.upenn.edu) to politely ask for access to the GPU queues and the Rstudio/Posix server.
+Once you've created an account, dry lab students should email [psom-pmacshpc@pennmedicine.upenn.edu](psom-pmacshpc@pennmedicine.upenn.edu) to politely ask for access to the GPU queues and the Rstudio/Posix server. The Posix server and off-campus server access require a VPN and the [installation instructions can be found here](/lab-manual/docs/Intro to Computation/ComputationResources.html#computing-through-vpn).
+
+Lastly, set up a biweekly 1-on-1 meeting with Dr. Cheng. Information on how to best prepare for these meetings are a WIP as we adjust our lab.
 
 Follow up this section with "Lab Resources" and "Intro to..." your respective focus, wet or dry lab.
 

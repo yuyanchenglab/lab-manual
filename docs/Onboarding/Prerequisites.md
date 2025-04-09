@@ -189,9 +189,9 @@ WIP Possibly Gabrielle
 
 ## Students
 
-Your onboarding will consist mainly of emails asking for access.
+Your onboarding will consist mainly of requesting access.
 
-From here, email a request for a PMACS account to work on the High Throughput Computing (HPC) cluster. The instructions are on the [HPC Wiki's Main Page->Accounts section](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Main_Page#Accounts). 
+Email a request for a PMACS account to work on the High Throughput Computing (HPC) cluster. The instructions are on the [HPC Wiki's Main Page->Accounts section](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Main_Page#Accounts). 
 
 Use the following information to complete the Manager Information section:
 
@@ -202,13 +202,13 @@ yuyan.cheng@pennmedicine.upenn.edu
 PennKey: ChengYu
 ```
 
-If you will be working in the dry lab, send an email after you set up your account asking for access to the GPU queues and the Posix server.
+Once you've created an account, dry lab students should send an email to [psom-pmacshpc@pennmedicine.upenn.edu](psom-pmacshpc@pennmedicine.upenn.edu) to politely ask for access to the GPU queues and the Rstudio/Posix server.
 
-The floor outside of work hours, the building, and the lab each require card access. You should message Dr. Cheng with a photo of your PennCard with your PennCard number to grant you this access. She will Email Darren Johnson at [darrenj@pennmedicine.upenn.edu](darrenj@pennmedicine.upenn.edu) to request access to Stellar Chance, BRB, John Morgan, CRB entrances, and Stellar Chance's 3rd floor elevator lobby.
+The floor outside of work hours, the building, and the lab each require card access. Email Dr. Cheng a photo of your PennCard with your PennID number to grant you this access.
 
 Send another email with the following information to jeffrey.maurer@pennmedicine.upenn.edu, cassidy.poon@pennmedicine.upenn.edu and yuyan.cheng@pennmedicine.upenn.edu:
 
-* Pennmed email
+* Penn email
 * Your personal gmail
 * Your github username
 * Your birthday

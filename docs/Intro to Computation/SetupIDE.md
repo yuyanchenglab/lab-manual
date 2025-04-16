@@ -44,23 +44,37 @@ This guide will walk you through installing VS Code locally, setting up a remote
 
 ## Step 2: Install the VS Code CLI on PMACS HPC
 
-1. **Download the VS Code CLI**
+1. **Download the VS Code CLI (Already Done!!!)**
+   
+   4/15/25: Changed to version 1.85 due to server having GLIBC 2.17.0 which is not supported
+   by vs code versions 1.86 and newer
 
    ```bash
-   wget -P ~/.local/bin "https://code.visualstudio.com/sha/download?build=stable&os=cli-alpine-x64"
-   tar -xvf ~/.local/bin/code-server.tar.gz -C ~/.local/bin
+   # Download the VS Code Server v1.85 archive into the target directory and name it vscode-server.tar.gz
+   wget -O /project/hipaa_ycheng11lab/software/vscode_1.85/vscode-server.tar.gz "https://update.code.visualstudio.com/1.85.2/cli-alpine-x64/stable"
+
+   # Extract the downloaded archive in the same directory, stripping the top-level folder (adjust --strip-components as needed)
+   tar -xzf /project/hipaa_ycheng11lab/software/vscode_1.85/vscode-server.tar.gz -C /project/hipaa_ycheng11lab/software/vscode_1.85
    ```
 
-2. **Add `~/.local/bin` to PATH** (if needed)
+2. **Add `/project/hipaa_ycheng11lab/software/vscode_1.85` to PATH** (if needed)
 
    ```bash
-   echo $PATH | grep --color "$HOME/.local/bin" # Check if already added
-   echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
+   # Check if the VS Code Server bin directory is already in PATH
+   echo $PATH | grep --color "/project/hipaa_ycheng11lab/software/vscode_1.85"
+
+   # Add the VS Code Server executable to the PATH for all users via the shared installation
+   echo '# Include the VS Code Server executable from the shared installation in PATH' >> ~/.bashrc
+   echo 'export PATH="/project/hipaa_ycheng11lab/software/vscode_1.85:$PATH"' >> ~/.bashrc
+
+   # Reload your bash configuration
    source ~/.bashrc
+
+   # Verify the 'code' executable is now being used
    which code
    ```
 
-You should see `~/.local/bin/code` in the output.
+You should see `/project/hipaa_ycheng11lab/software/vscode_1.85/bin/code` in the output.
 
 ---
 

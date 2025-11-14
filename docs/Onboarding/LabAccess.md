@@ -8,6 +8,8 @@ has_children: false
 
 # {{page.title}}
 
+This page is an additional reference for completing Onboarding [Prerequisites](Prerequisites) 
+
 ## Building, Lab and Facility
 
 This is our address:
@@ -83,7 +85,7 @@ The Google Drive will consist mainly of reference materials, such as lab respons
 
 Box will consist of aggregated/summarized/presentable data and metadata for our projects. 
 
-For the dry lab, raw project results should be neatly organized within a Github repository. More details available [here](../Intro to Computation/SourceControl.html)
+For the dry lab, raw project results should be neatly organized within a Github repository. More details available [here](../Intro to Computation/SourceControl)
 
 ## Printers and Other Equipment
 

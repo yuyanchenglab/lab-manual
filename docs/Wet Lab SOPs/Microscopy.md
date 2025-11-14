@@ -8,21 +8,13 @@ nav_order: 4
 
 # {{page.title}}
 
-## How to clean the lab to avoid data contamination
-
-## How to Pipette
-
-## Why we need to do it like this
-
-## Microscope Procedures
-
-### Materials:
+## Materials:
 
 Light microscope with camera & appropriate software
 
 Slide(s) with samples
 
-### Protocol:
+## Protocol:
 
 Turn on power source, laser (may not be necessary for bright field, only for fluorescence), and microscope.
 
@@ -50,7 +42,7 @@ When finished taking photos, close the software, return the microscope to the ob
 
 Turn off the laser, then turn off the power source.
 
-### Results:
+## Results:
 
 Focused, visible photos of the samples on the slides in a .czi file format. Can transfer files to other computers using a flash drive. Can convert .czi files to .jpg using Fiji or other software to be opened on other computers.
 

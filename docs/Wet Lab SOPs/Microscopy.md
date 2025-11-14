@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Intro to the Biology Lab
+title: Microscopy
+parent: Wet Lab SOPs
 has_children: false
 nav_order: 4
 ---

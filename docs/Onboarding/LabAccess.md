@@ -69,19 +69,27 @@ Additional resources:
 
 ## Lab Communication
 
-Give Cass, Dr. Cheng or Jeff your Penn email and we will invite you to: 
+Give Dr. Cheng or Jeff your Penn email and we will invite you to: 
 
-* Slack for quick messaging in the lab 
+* Slack for general communication 
 * The Lab Google calendar for scheduling and to include your birthday for the birthday calendar!
-* Labarchives for your own digital lab notebook. This is very important.
+* LabArchives for your own digital lab notebook.
 
 ## File Sharing
 
-The lab has a Box and Google Drive with important files. Access instructions are a WIP.
+The lab has a Box and Google Drive account. Request access as needed.
+
+The Google Drive will consist mainly of reference materials, such as lab responsibilities and contact information.
+
+Box will consist of aggregated/summarized/presentable data and metadata for our projects. 
+
+For the dry lab, raw project results should be neatly organized within a Github repository. More details available [here](../Intro to Computation/SourceControl.html)
 
 ## Printers and Other Equipment
 
 The lab printer, an HP Color LaserJet Pro M478f-9f, has an IP address of 130.91.197.113
+
+We share this printer with the Uyhazi lab.
 
 If you have a Windows 11 computer, you may add it to your computer's available printers through Wifi as such:
 

@@ -16,5 +16,5 @@ The first course was created in 2018 with the intention of shoring up undergradu
 
 These will only cover the software side. For information about:
 
-* Our computational resources, see the [HPC wiki](https://hpcwiki.pmacs.upenn.edu/wiki/index.php/HPC:User_Guide).
-* Bioinformatics, you should visit our [Bioinformatics](https://yuyanchenglab.github.io/docs/Intro%20to%20Computation/Bioinformatics.html) and then our [Dry Lab SOPs](https://yuyanchenglab.github.io/docs/Dry%20Lab%20SOPs/).
+* Computational resources, see the [HPC wiki](https://hpcwiki.pmacs.upenn.edu/wiki/index.php/HPC:User_Guide)
+* Bioinformatics, visit [Bioinformatics](Bioinformatics) and then [Dry Lab SOPs](../Dry Lab SOPs)

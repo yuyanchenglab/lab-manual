@@ -18,9 +18,8 @@ This page is specifically for joining our lab as a researcher and catalogues any
 
 ### Virtual Tasks: Part 1
 
-After receiving the offer letter through email and signing it, there are a few tasks ahead of you.
+After signing your offer letter, have your reference send a recommendation letter on your behalf, as this may take some time depending on your references' availability.
 
-The first is that you will need to contact your reference to send a recommendation letter on your behalf, as this may take some time depending on your references' availability.
 
 You will eventually receive an email to approve a background check on you. If it takes more than a week to arrive, reach out to Dr. Cheng (yuyan.cheng@pennmedicine.upenn.edu) to investigate.
 
@@ -103,10 +102,11 @@ Send the following information to Dr. Cheng to initiate the temporary hiring pro
 * Social security number
 * Home address
 * Date of birth
-* Preferred email
+* Preferred email, gmail if possible
 * Preferred phone number
+* Professional headshot for our website
 
-### PennKey Set-Up
+### Virtual Tasks
 
 You will receive an email from UPenn (noreply@upenn.edu) to set up your PennKey username and password. 
 Follow the given instructions, and keep track of your given Penn ID number featured at the end of the email.
@@ -185,18 +185,18 @@ To access the workspace, sign into it using the following URL: [yuyanchenglab.sl
 
 ## Postdocs
 
-In addition to the virtual work needed by full-time staff, postdocs are expected to upload proof of degree.
+Postdocs share all the requirements needed by full-time staff. They are also required to upload proof of degree.
 
-Postdocs will also receive an email from the Academics Programs Coordinator, currently Donna Crowley, about one required and one optional virtual orientation. They are hosted by The Office of Postdoctoral Affairs (OPA) and the Biomedical Postdoctoral Programs (BPP). The formal orientation is held each January and August/September and you are required to go to one of them, preferably the earliest one post-hire.
+Postdocs will also receive an email from the Academics Programs Coordinator, currently Donna Crowley, about one required and one optional virtual orientation. They are hosted by The Office of Postdoctoral Affairs (OPA) and the Biomedical Postdoctoral Programs (BPP). The formal orientation is held each January and August/September. You are **required** to go to one of them, preferably the earliest one post-hire.
 
 ## Students
 
-Your onboarding will consist mainly of requesting access.
+Onboarding will consist mainly of requesting access.
 
-Email the following information to jeffrey.maurer@pennmedicine.upenn.edu, cassidy.poon@pennmedicine.upenn.edu and yuyan.cheng@pennmedicine.upenn.edu:
+Email the following information to jeffrey.maurer@pennmedicine.upenn.edu and yuyan.cheng@pennmedicine.upenn.edu:
 
-* Penn email
 * Professional headshot
+* Penn email
 * Class schedule
 * Github username (if you have)
 * Personal gmail (if you have)
@@ -208,7 +208,7 @@ Slack is the lab’s primary form of communication. After you accept the invitat
 
 The floor outside of work hours, the building, and the lab each require card access. Email Dr. Cheng a photo of your PennCard with your PennID number to grant you this access.
 
-Request for a PMACS account to work on the High Throughput Computing (HPC) cluster. The instructions are on the [HPC Wiki's Main Page->Accounts section](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Main_Page#Accounts). 
+Request a PMACS account to work on the High Throughput Computing (HPC) cluster. The instructions are on the [HPC Wiki's Main Page->Accounts section](https://hpcwiki.pmacs.upenn.edu/index.php/HPC:Main_Page#Accounts). 
 
 Use the following information to complete the Manager Information section:
 
@@ -221,12 +221,14 @@ PennKey: ChengYu
 
 Once you've created an account, dry lab students should email [psom-pmacshpc@pennmedicine.upenn.edu](psom-pmacshpc@pennmedicine.upenn.edu) to politely ask for access to the GPU queues and the Rstudio/Posix server. The Posix server and off-campus server access require a VPN and the [installation instructions can be found here](/lab-manual/docs/Intro to Computation/ComputationResources.html#computing-through-vpn).
 
-Lastly, set up a biweekly 1-on-1 meeting with Dr. Cheng. Information on how to best prepare for these meetings are a WIP as we adjust our lab.
+Set up a biweekly 1-on-1 meeting with Dr. Cheng.
 
 Follow up this section with "Lab Resources" and "Intro to..." your respective focus, wet or dry lab.
 
 ### Fellowship Students
 
-* Complete necessary forms regarding the fellowship.
-* Inform Dr. Cheng of the requirements of the fellowship. 
+In addition to the previous instructions:
+
+* Complete the necessary forms regarding the fellowship.
+* Inform Dr. Cheng of the requirements of the fellowship.
 * Establish regular communication regarding timesheets/progress checks.

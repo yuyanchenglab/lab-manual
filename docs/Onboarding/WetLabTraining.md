@@ -14,7 +14,7 @@ Penn Marketplace is the platform used to order all necessary lab supplies. If yo
 
 Use the following URL to access Marketplace: [https://procurement.upenn.edu/making-purchases/penn-marketplace](https://procurement.upenn.edu/making-purchases/penn-marketplace)
 
-Please contact Cass or Dr. Cheng to be added to the Order Request List and Order Already Placed Google Sheets.
+Please contact Dr. Cheng to be added to the Order Request List and Order Already Placed Google Sheets.
 
 They can be accessed at the following shared documents:
 
@@ -57,7 +57,7 @@ Open the package and remove the packing slip with the order information. Place t
 
 Place the item in its appropriate place, and notify the lab of its arrival in #deliveries on Slack.
 
-If you are unsure of where the item should go, please reach out to Cass, Jeff, or Dr. Cheng.
+If you are unsure of where the item should go, please reach out to Jeff, Gaby or Dr. Cheng.
 
 Large boxes can be disposed of by placing them in the hallway. Make sure they are not obstructing the hallway.
 

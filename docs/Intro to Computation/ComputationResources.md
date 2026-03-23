@@ -39,3 +39,23 @@ If there are any issues with your VPN connection, try the following. If one of t
 * Add a new connection with remote.pmacs.upenn.edu as the server URL
 * Follow the steps at this [link](https://forums.ivanti.com/s/article/Deep-Clean-Procedure-for-Windows-and-MAC?language=en_US) to uninstall and then reinstall the VPN.
 
+# Computing through PARCC Cluster
+
+The PARCC supercomputing cluster released in 2026 for public use at Penn is used in the lab for high compute GPU nodes and demanding jobs.
+
+## Logging in through Kerebros MacOS - Troubleshooting
+
+The following commands were used to fix Kerebros not recognizing and initializing the PARCC login for a provisioned account.
+
+```
+export MY_CACHE="API:$(uuidgen)"
+# Use pennkey password not Penn Medicine password
+kinit -c "$MY_CACHE" <pennkey>@UPENN.EDU
+KRB5CCNAME="$MY_CACHE" ssh -o GSSAPIAuthentication=yes -o GSSAPIDelegateCredentials=yes <pennkey>@login.betty.parcc.upenn.edu
+```
+
+You can also tunnel after using a jupyter notebook tunnel with the following command.
+
+```
+KRB5CCNAME="$MY_CACHE" ssh -o GSSAPIAuthentication=yes -o GSSAPIDelegateCredentials=yes -L port:<node>:port login.betty.parcc.upenn.edu
+```

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Publishing a package with Bioconda
+title: Publishing to Bioconda
 nav_order: 60
-parent: Publishing Python Packages to Bioconda
+parent: Intro to Computation
 has_children: false
 ---
 

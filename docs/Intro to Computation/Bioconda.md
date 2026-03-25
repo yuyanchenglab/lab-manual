@@ -14,7 +14,7 @@ First create an Anaconda environment of your choice in the Cheng Lab virtual env
 
 ```bash
 conda create -p /project/hipaa_ycheng11lab/software/virtual_environments/<venv_name> python=3.11`
-conda install -n ervmancer_local conda-build git conda-verify
+conda install -p <path_to_venv> conda-build git conda-verify
 ```
 
 ```git clone``` the repository into a location on the cluster
@@ -26,7 +26,7 @@ wget https://zenodo.org/records/.... -O <filename>
 ```
 
 ## Why is this important?
-- We need to do this because the .gitignore file ignores large files that cannot be put onto the Git repository directly and its needed for code to work in ervmancer local builds.
+- We need to do this because the .gitignore file ignores large files that cannot be put onto the Git repository directly and its needed for code to work in xspear local builds.
 
 
 - Change the version in [`setup.py`](http://setup.py) and `meta.yaml` in the package github files by bumping it up one version as well. e.g. `0.0.3 → 0.0.4`.
@@ -58,7 +58,7 @@ anaconda upload \
 anaconda_upload is not set.  Not uploading wheels: []
 ```
 
-- Run `conda install -y <path_to_local_ervmancer_tar.bz2 file>` using the `tar.bz2` path given above by the `conda build .` output
+- Run `conda install -y <path_to_local_xspear_tar.bz2 file>` using the `tar.bz2` path given above by the `conda build .` output
     - OR just use the --use-local flag
 - `git pull` to make sure your local repository is up to date with github’s remote. Then, `git add`, `commit`, and `push` your changes to `main`
 - Once done, navigate to your repository page and click create a new release on the right hand side of the repository (this should be after you see your new changes committed to main branch)
@@ -84,14 +84,14 @@ Now that we have created a published release in our coding repository for our pa
 
 We need to update the sha256 hash of the newest version of our project because the existing sha256 of our current meta.yaml on the bioconda-recipes repository is one of our previous published package versions.
 
-Use the following command for your repository. So for ervmancer, the command would be as follows:
+Use the following command for your repository. So for xspear, the command would be as follows:
 
 - Make sure you are in your cloned bioconda repository again
 - Run the following command to make sure the fork is up to date with the main repository using `git pull upstream master`.
 - create a branch to commit and push changes to: `git checkout -b <package_name_changes_vX.Y.Z>`. If done right you should correctly see the current branch name you just made in parentheses in your console.
 - `wget -O- https://github.com/yuyanchenglab/prj2601_x-spear/archive/refs/tags/v<version>.tar.gz | shasum -a 256`
 - The output shasum is what you will replace the shasum in your yaml file with.
-- Make sure to also bump the version under `{% set version = "0.0.x" %}` in your yaml file. For ervmancer, this is on line 3.
+- Make sure to also bump the version under `{% raw %}{% set version = "0.0.x" %}{% endraw %}` in your yaml file.
 - Commit and push this to your branch of the fork cloned local repository.
 
 ## Opening a Pull Request

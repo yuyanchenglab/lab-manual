@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Connecting the Betty (PARCC) Cluster to Claude
+title: PARCC to Claude
 has_children: false
 parent: Intro to Computation
 nav_order: 20

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PARCC (Betty) Login and Orientation
+title: PARCC Login 
 nav_order: 12
 parent: Intro to Computation
 has_children: false

@@ -13,4 +13,5 @@ nav_order: 30
 * [Animal Facility](AnimalFacility)
 * [Colony Management](ColonyManagement)
 * [Chromium 3'](Chromium3prime)
+* [Sequencing](Sequencing)
 * [Xenium](Xenium)

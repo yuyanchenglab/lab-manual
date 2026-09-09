@@ -17,3 +17,5 @@ How the lab runs day to day: orders, duties, meetings, and the deadlines we hold
 4. [Birthdays](Birthdays)
 5. [PTO Policy](PTOPolicy)
 6. [Deadline Policy](DeadlinePolicy)
+7. [Concur Reimbursement](Concur)
+8. [Accounts](Accounts)

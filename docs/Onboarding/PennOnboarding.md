@@ -6,11 +6,11 @@ parent: Onboarding
 has_children: false
 ---
 
-<!-- MOVED + edited from docs/Onboarding/Prerequisites.md — this page keeps only the Penn-institutional steps (Workday, PennKey, I-9, PennCard, training). Lab-specific account requests (Slack/GitHub/Drive) moved to LabOnboarding.md; server access moved to DryLabSetup.md. -->
+<!-- MOVED + edited from docs/Onboarding/Prerequisites.md — this page now keeps only the Penn-institutional steps for permanent staff (Workday, PennKey, I-9, PennCard, training). Lab-specific account requests (Slack/GitHub/Drive) moved to LabOnboarding.md; server access moved to DryLabSetup.md. Per Yuyan's request: the Temporary Staff, Postdocs, and Students (incl. Fellowship Students) sections moved to Joining-the-Lab/index.md, since they're "which category am I and what's required" content rather than a university-wide process. The "Training Modules" subsection that lived under Temporary Staff was dropped entirely rather than moved — that's now fully covered by Wet-Lab/Training and Dry-Lab/Training. -->
 
 # {{page.title}}
 
-This page covers the university-side process for joining Penn. It applies regardless of wet/dry lab focus. For lab-specific access (space, Slack, GitHub, Drive), see [Lab Onboarding](LabOnboarding).
+This page covers the university-side process for permanent staff joining Penn. For lab-specific access (space, Slack, GitHub, Drive), see [Lab Onboarding](LabOnboarding). If you're temporary staff, a postdoc, or a student, see your category's requirements on [Joining the Lab](../Joining-the-Lab/) instead.
 
 ## Permanent Staff
 
@@ -43,33 +43,3 @@ Get your PennCard at the card office next to Onboard@Penn. Any unfinished Workda
 Connect to campus wifi: [AirPennNet setup](https://www.isc.upenn.edu/how-to/connect-airpennnet-and-joinnow)
 
 Once you have your PennCard, continue to [Lab Onboarding](LabOnboarding) for building/lab access.
-
-## Temporary Staff
-
-Send the following to Dr. Cheng to start the temporary hiring process: Social security number, home address, date of birth, preferred email (gmail if possible), preferred phone number, and a professional headshot for the website.
-
-You'll receive an email from `noreply@upenn.edu` to set up your PennKey.
-
-Dr. Cheng submits a [PennCard Request Form](https://penncard.business-services.upenn.edu/penncard-request-form) on your behalf. [Apply for your PennCard online](https://www.campusexpress.upenn.edu/penncard-apply), then [make a pickup appointment](https://penncard.business-services.upenn.edu/node/60).
-
-After receiving your PennKey, complete all Workday dashboard tasks (including I-9 Part 1), then schedule the I-9 Part 2 appointment at [Onboard@Penn](https://www.onboard.upenn.edu/).
-
-### Training Modules
-
-All staff complete HIPAA and blood/sharp exposure training in Workday. Wet lab members have additional required modules — see [Wet Lab Training](../Wet-Lab/Training).
-
-Some training (e.g., Hands-On Mouse) is in-person and must be scheduled via a link at the end of the prerequisite digital module. Provide your completion certificate to Dr. Cheng so she can add you to the appropriate protocols.
-
-## Postdocs
-
-Postdocs share all staff requirements above, plus proof of degree.
-
-You'll also receive an email from the Academic Programs Coordinator about one required and one optional virtual orientation, hosted by the Office of Postdoctoral Affairs (OPA) and Biomedical Postdoctoral Programs (BPP), held each January and August/September. Attending one (preferably the earliest post-hire) is **required**.
-
-## Students
-
-Onboarding consists mainly of requesting access — see [Lab Onboarding](LabOnboarding) for the account-request email.
-
-### Fellowship Students
-
-In addition to the standard student process: complete the fellowship's required forms, inform Dr. Cheng of the fellowship's requirements, and establish regular communication for timesheets/progress checks.

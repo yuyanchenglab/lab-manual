@@ -6,9 +6,11 @@ parent: Lab Management
 has_children: false
 ---
 
-<!-- MOVED from docs/Onboarding/WetLabTraining.md ("Placing and Organizing Orders" section), content unchanged. Moved here because ordering is an ongoing operational task, not a one-time onboarding step. -->
+<!-- MOVED from docs/Onboarding/WetLabTraining.md ("Placing and Organizing Orders" section), content unchanged. Moved here because ordering is an ongoing operational task, not a one-time onboarding step. Assigned to Gaby; Box folder link added per Yuyan's request. -->
 
 # {{page.title}}
+
+**Owner:** Gaby
 
 Penn Marketplace is the platform used to order all necessary lab supplies. For anything outside Marketplace, speak to Dr. Cheng.
 
@@ -31,6 +33,12 @@ When done, click **Assign Cart**, search "Yuyan" / "Cheng", and click the **+** 
 ## Organizing Placed Orders
 
 Once Dr. Cheng notifies you the order is placed (and you get Joy's confirmation email), cut the entry from Orders Requested and paste it into the first tab of Orders Already Placed. Fill in the PO number from the order receipt in Joy's email.
+
+## Requesting a Quote (POs)
+
+Purchase orders for requested quotes are tracked in this Box folder:
+
+[NEEDS INPUT — Gaby: paste the Box folder link here]
 
 ## Receiving Orders
 

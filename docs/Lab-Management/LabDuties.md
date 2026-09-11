@@ -6,9 +6,11 @@ parent: Lab Management
 has_children: false
 ---
 
-<!-- REWORKED: previously duplicated the duty tables from Drive on this page (a copy that would go stale). Now just states the general rule and links out to the live sheet, per lab preference to keep one source of truth. -->
+<!-- REWORKED: previously duplicated the duty tables from Drive on this page (a copy that would go stale). Now just states the general rule and links out to the live sheet, per lab preference to keep one source of truth. Assigned to Kelly. -->
 
 # {{page.title}}
+
+**Owner:** Kelly
 
 Lab duties — supply/order ownership, wet-lab rotation tasks (autoclaving, deliveries), and dry-lab duties (server upkeep, GitHub/repo maintenance) — are assigned by rotation and by role, and are tracked centrally rather than on this page.
 

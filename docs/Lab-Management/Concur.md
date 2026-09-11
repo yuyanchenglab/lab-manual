@@ -6,7 +6,7 @@ parent: Lab Management
 has_children: false
 ---
 
-<!-- MOVED from docs/Lab Resources/index.md ("Concur Reimbursement" section), content unchanged. Moved here because it's an ongoing lab-management process (reimbursement), not a one-off resource note. -->
+<!-- MOVED from docs/Lab Resources/index.md ("Concur Reimbursement" section), content unchanged. Moved here because it's an ongoing lab-management process (reimbursement), not a one-off resource note. Student-Specific Reimbursement section added, assigned to Marlene per Yuyan's request. -->
 
 # {{page.title}}
 
@@ -43,3 +43,9 @@ When the first three are complete, there will be a header on the [Concur website
 5) When all information is included for each expense/receipt, go to the report overview page and choose to `Submit Report` for approval.
 
 6) Reimbursements should happen quickly. If there is no notice by the next day, check the `Report Details -> Audit Trail` for information on its progress. Your expense approver should include concrete instructions for fixing your report. When you have followed through with corrections, `Submit Report` again for approval.
+
+## Student-Specific Reimbursement
+
+**Owner:** Marlene
+
+[NEEDS INPUT — Marlene: student expense-reimbursement process, if it differs from the standard Concur flow above (e.g. a different approval chain, funding source, or reimbursement method for students who may not have a Concur profile)]

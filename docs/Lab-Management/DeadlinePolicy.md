@@ -6,7 +6,7 @@ parent: Lab Management
 has_children: false
 ---
 
-<!-- NEW, from your stated rules. -->
+<!-- NEW, from your stated rules. Marked complete by Yuyan. -->
 
 # {{page.title}}
 
@@ -16,5 +16,3 @@ Give Dr. Cheng lead time before external deadlines, so there's room to review an
 |---|---|
 | Small grant / poster | 2 weeks before the deadline |
 | NIH grant | 1 month before the deadline |
-
-<!-- TODO: does this apply to first full draft, or to "starting to work on it"? And does "poster" here mean the poster itself or the abstract submission deadline — worth being explicit since those can be weeks apart. -->

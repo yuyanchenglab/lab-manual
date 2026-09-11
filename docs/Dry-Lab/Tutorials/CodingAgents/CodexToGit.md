@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Codex to Git
-parent: Tutorials
-grand_parent: Dry Lab
+parent: Coding Agents
 nav_order: 55
 ---
 

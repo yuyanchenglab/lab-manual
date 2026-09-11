@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Figures
-parent: Tutorials
-grand_parent: Dry Lab
+parent: Standards
 nav_order: 100
 ---
 

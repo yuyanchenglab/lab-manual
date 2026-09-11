@@ -20,7 +20,9 @@ This guide uses [`yuyanchenglab/lab-manual`](https://github.com/yuyanchenglab/la
 4. Inspect and refine the diff.
 5. Validate the site.
 6. Commit and push the branch.
-7. Optionally create a pull request.
+7. Create a pull request.
+8. Wait for CI and merge the pull request into `main`.
+9. Monitor GitHub Pages and verify the published site.
 
 ## One-time setup
 
@@ -223,6 +225,44 @@ include the successful Jekyll build in the test section. Do not merge it.
 
 Review the proposed title and description before Codex creates the pull request if you want tighter control.
 
+### Step 8: Wait for CI and merge into `main`
+
+The lab manual's CI workflow builds the Jekyll site for every pull request. Do not merge until that check succeeds. Ask Codex to confirm that the pull request is mergeable and still current with `main`, then merge it using a method permitted by the repository.
+
+Example prompt:
+
+```text
+Check the pull request for docs/update-onboarding. Wait for all required CI
+checks, including the Jekyll build, to finish. If every required check passes
+and the branch is mergeable, merge the pull request into main using a merge
+method allowed by the repository. Do not force-push or bypass protections.
+Give me the pull-request URL and the resulting main commit SHA.
+```
+
+If a check fails, have Codex inspect the relevant Actions log, explain the failure, and fix only problems caused by the branch. Push the fix to the same branch and wait for CI again before merging.
+
+### Step 9: Publish and verify the lab manual
+
+No separate release command is normally needed for this repository. Merging into `main` triggers `.github/workflows/pages.yml`, which builds the Jekyll site and deploys it with GitHub Pages.
+
+Ask Codex to monitor both the main-branch CI run and the Pages deployment:
+
+```text
+After the pull request is merged, monitor the GitHub Actions runs triggered by
+the new main commit. Wait for both CI and "Deploy Jekyll site to Pages" to
+finish. If they succeed, open https://yuyanchenglab.github.io/lab-manual/ and
+verify that the expected documentation and navigation are live. Give me the
+main commit SHA, Actions run URLs, and live-site URL. If a run fails, report
+the relevant error and do not make unrelated changes.
+```
+
+Useful pages:
+
+- [Lab manual Actions](https://github.com/yuyanchenglab/lab-manual/actions)
+- [Published lab manual](https://yuyanchenglab.github.io/lab-manual/)
+
+A successful merge and a successful Pages workflow are separate milestones. Do not call the change published until the Pages deployment succeeds and the live site shows the expected result.
+
 ## A reusable prompt for the whole workflow
 
 Use this when the requested change is already clear:
@@ -246,7 +286,19 @@ After approving the diff, send:
 ```text
 Commit only the approved changes with a clear commit message, push the current
 branch to origin with upstream tracking, verify that local and remote commit
-SHAs match, and give me the GitHub branch URL. Do not merge.
+SHAs match, create a pull request into main, and give me the branch and
+pull-request URLs. Stop before merging.
+```
+
+After reviewing the pull request and deciding to publish, send:
+
+```text
+Wait for every required pull-request check to pass. If the pull request is
+mergeable, merge it into main without bypassing repository protections. Then
+monitor the CI and "Deploy Jekyll site to Pages" workflows for the resulting
+main commit. When both succeed, verify the expected change at
+https://yuyanchenglab.github.io/lab-manual/ and give me the pull-request,
+workflow-run, and live-site URLs.
 ```
 
 ## If pushing fails inside Codex
@@ -280,6 +332,8 @@ The plugin connection and local `gh` authentication are separate. One may work e
 - Validate the Jekyll build before pushing.
 - Commit only files related to the task.
 - Push a branch and use a pull request instead of updating `main` directly.
+- Merge only after required pull-request checks pass.
+- Confirm the Pages workflow succeeded and inspect the live site before calling the change published.
 - Never paste GitHub credentials or tokens into a prompt.
 
 ## Official OpenAI documentation

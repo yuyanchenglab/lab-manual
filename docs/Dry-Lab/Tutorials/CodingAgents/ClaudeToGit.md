@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Claude to Git
-parent: Tutorials
-grand_parent: Dry Lab
+parent: Coding Agents
 nav_order: 45
 ---
 

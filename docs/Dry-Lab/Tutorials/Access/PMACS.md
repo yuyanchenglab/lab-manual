@@ -1,8 +1,7 @@
 ---
 layout: default
 title: PMACS Usage
-parent: Tutorials
-grand_parent: Dry Lab
+parent: Access
 nav_order: 20
 ---
 

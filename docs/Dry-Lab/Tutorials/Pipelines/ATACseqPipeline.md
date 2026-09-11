@@ -1,8 +1,7 @@
 ---
 layout: default
 title: ATACseq Pipeline Usage
-parent: Tutorials
-grand_parent: Dry Lab
+parent: Pipelines
 nav_order: 90
 ---
 

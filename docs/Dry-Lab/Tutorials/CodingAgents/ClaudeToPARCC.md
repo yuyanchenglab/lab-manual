@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Claude to PARCC
-parent: Tutorials
-grand_parent: Dry Lab
+parent: Coding Agents
 nav_order: 40
 ---
 

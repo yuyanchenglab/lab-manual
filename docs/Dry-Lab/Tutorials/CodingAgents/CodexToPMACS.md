@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Codex to PMACS
-parent: Tutorials
-grand_parent: Dry Lab
+parent: Coding Agents
 nav_order: 50
 ---
 

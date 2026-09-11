@@ -1,8 +1,7 @@
 ---
 layout: default
 title: scRNAseq Pipeline Usage
-parent: Tutorials
-grand_parent: Dry Lab
+parent: Pipelines
 nav_order: 70
 ---
 

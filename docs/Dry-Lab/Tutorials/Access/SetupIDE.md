@@ -1,8 +1,7 @@
 ---
 layout: default
 title: IDE Setup
-parent: Tutorials
-grand_parent: Dry Lab
+parent: Access
 has_children: false
 nav_order: 35
 ---

@@ -1,23 +1,37 @@
 ---
 layout: default
-title: PTO Policy
+title: PTO / Sick Day Policy
 nav_order: 50
 parent: Lab Management
 has_children: false
 ---
 
-<!-- NEW, from your stated rule. Mechanism for submitting a request is not specified anywhere I have access to — flagged below. -->
+<!-- RENAMED from "PTO Policy" to "PTO / Sick Day Policy" per Yuyan's request. Restructured by staff category, each with its own owner: Jeff (permanent staff), Marlene (graduate students), Kelly (temporary staff), Gaby (postdocs). Mechanism for submitting a request is still not specified anywhere I have access to — flagged per category below. -->
 
 # {{page.title}}
 
-Request PTO **at least one week in advance**.
+Request PTO **at least one week in advance**. This is separate from official Workday/HR time-off processes staff may also need to follow — check with Dr. Cheng if you're unsure which applies to you.
 
-<!-- NEEDS LAB INPUT: how should a request actually be submitted? Options to pick from (or specify another): -->
-<!-- - Message Dr. Cheng directly on Slack -->
-<!-- - Post in a dedicated Slack channel (e.g. #time-off) -->
-<!-- - Put a hold on the lab Google Calendar and tag Dr. Cheng -->
-<!-- - Formal Workday time-off request (for staff) -->
+## Permanent Staff
 
-To request time off: [NEEDS INPUT]
+**Owner:** Jeff
 
-This is separate from official Workday/HR time-off processes staff may also need to follow — check with Dr. Cheng if you're unsure which applies to you.
+[NEEDS INPUT — Jeff: PTO/sick day policy and request process for permanent staff]
+
+## Graduate Students
+
+**Owner:** Marlene
+
+[NEEDS INPUT — Marlene: PTO/sick day policy and request process for graduate students]
+
+## Temporary Staff
+
+**Owner:** Kelly
+
+[NEEDS INPUT — Kelly: PTO/sick day policy and request process for temporary staff]
+
+## Postdocs
+
+**Owner:** Gaby
+
+[NEEDS INPUT — Gaby: PTO/sick day policy and request process for postdocs]

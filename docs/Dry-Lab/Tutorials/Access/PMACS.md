@@ -10,6 +10,9 @@ nav_order: 20
 
 # {{page.title}}
 
+**Owner:** Rushil
+
+<!-- TODO (Rushil): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
 Account setup: see [Onboarding → Dry Lab Setup](../../ServerAccess).
 
 ## PMACS Etiquette

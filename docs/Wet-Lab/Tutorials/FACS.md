@@ -10,6 +10,9 @@ nav_order: 10
 
 # {{page.title}}
 
+**Owner:** Marlene
+
+<!-- TODO (Marlene): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
 ## Materials
 
 [NEEDS INPUT]

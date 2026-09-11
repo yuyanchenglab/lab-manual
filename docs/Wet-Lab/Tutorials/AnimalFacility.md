@@ -10,6 +10,9 @@ nav_order: 30
 
 # {{page.title}}
 
+**Owner:** Rachel
+
+<!-- TODO (Rachel): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
 Our mice are housed in John Morgan (JM3) – Room 363.
 
 ## 1. PPE Requirements

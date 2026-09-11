@@ -10,6 +10,9 @@ nav_order: 50
 
 # {{page.title}}
 
+**Owner:** Gaby
+
+<!-- TODO (Gaby): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
 ## Materials
 
 [NEEDS INPUT]

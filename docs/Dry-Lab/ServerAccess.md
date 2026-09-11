@@ -10,6 +10,9 @@ has_children: false
 
 # {{page.title}}
 
+**Owner:** Ronnie
+
+<!-- TODO (Ronnie): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
 This page is for anyone doing computational work — getting your accounts and access set up before you start. For the day-to-day how-to once you're set up, see [Lab Tutorials → Dry Lab](Tutorials/).
 
 ## 1. PMACS HPC Account

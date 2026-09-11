@@ -10,6 +10,9 @@ nav_order: 40
 
 # {{page.title}}
 
+**Owner:** Kelly
+
+<!-- TODO (Kelly): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
 ## Mice Log and Availability
 
 The "Mice log" and "Mice available" tabs are for **all lab members**.

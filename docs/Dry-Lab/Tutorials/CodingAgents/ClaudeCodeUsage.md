@@ -10,6 +10,9 @@ nav_order: 40
 
 # {{page.title}}
 
+**Owner:** Ronnie
+
+<!-- TODO (Ronnie): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
 ## What This Does
 
 Connects Claude to the Betty HPC cluster over SSH, so the agent can read files, submit SLURM jobs, and pull results back. Covers both Claude Science (via the Compute panel) and Claude Code (the terminal agent, [Section 9](#sec-claude-code)). Nothing is installed on Betty — Claude reaches in through a connection you authenticate. Tested on Mac and Ubuntu, not WSL.

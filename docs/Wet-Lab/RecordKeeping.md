@@ -10,6 +10,9 @@ has_children: false
 
 # {{page.title}}
 
+**Owner:** Marlene
+
+<!-- TODO (Marlene): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
 ## LabArchives — Daily Records
 
 Use LabArchives as your digital lab notebook for daily reports of results, protocols, and general record-keeping. You get access as part of [Lab Onboarding](../Onboarding/LabOnboarding).

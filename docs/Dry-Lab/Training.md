@@ -10,6 +10,9 @@ has_children: false
 
 # {{page.title}}
 
+**Owner:** Veer
+
+<!-- TODO (Veer): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
 <!-- NEEDS LAB INPUT: confirm/replace everything below — this is a guess at what belongs here based on ServerAccess.md and general PHI/data-handling requirements, not a documented lab requirement. -->
 
 ## Required Training

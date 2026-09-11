@@ -10,6 +10,9 @@ has_children: false
 
 # {{page.title}}
 
+**Owner:** Gaby
+
+<!-- TODO (Gaby): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
 Standard setup for a new dry-lab project, start to finish.
 
 ## 1. Assign a Project ID

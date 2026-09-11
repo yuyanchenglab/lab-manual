@@ -10,6 +10,9 @@ nav_order: 10
 
 # {{page.title}}
 
+**Owner:** Ronnie
+
+<!-- TODO (Ronnie): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
 A simple repeatable guide to log in to Betty (the PARCC cluster) and get oriented.
 
 ## Step 1 — Get a Kerberos Ticket

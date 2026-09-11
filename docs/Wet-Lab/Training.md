@@ -10,6 +10,9 @@ has_children: false
 
 # {{page.title}}
 
+**Owner:** Kelly
+
+<!-- TODO (Kelly): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
 ## Staff
 
 <!-- existing page had this heading with no content — left as-is, flag for whoever owns this page (Kelly per Employee Responsibilities sheet) -->

@@ -6,32 +6,14 @@ parent: Lab Management
 has_children: false
 ---
 
-<!-- NEW — pulled from the "Cheng Lab Employee Responsibilities" and "Cheng Lab Employee Order Responsibilities" Drive sheets as of this draft. These sheets are the live source of truth and change as roles shift — this page should either link out and stay thin, or be re-synced periodically. Flag: is this even worth duplicating on GitHub, or should this page just link to the Drive sheet directly? -->
+<!-- REWORKED: previously duplicated the duty tables from Drive on this page (a copy that would go stale). Now just states the general rule and links out to the live sheet, per lab preference to keep one source of truth. -->
 
 # {{page.title}}
 
-Full detail and current assignments live in the **Cheng Lab Employee Responsibilities** Drive sheet — this page is a snapshot for orientation purposes.
+Lab duties — supply/order ownership, wet-lab rotation tasks (autoclaving, deliveries), and dry-lab duties (server upkeep, GitHub/repo maintenance) — are assigned by rotation and by role, and are tracked centrally rather than on this page.
 
-## Order Responsibilities
+**General rule:** check the sheet below for your current assignment. Duties rotate and roles shift, so this page intentionally doesn't duplicate the table — always defer to the sheet as the source of truth.
 
-| Name | Responsibility |
-|---|---|
-| Yuyan | Office supplies, lab organization, software |
-| Gaby | 10x products, library prep |
-| Kelly | Animal surgeries, colony management, IHC, FACS sorting |
-| Marlene | General supplies (tips, tubes, common chemicals, etc.), biohazard pick-up, chemical waste pick-up |
-| Jeff | Printers |
+[Cheng Lab Employee Responsibilities (Google Sheet)](https://docs.google.com/spreadsheets/d/1MacH5ZW4DH7IUVW5LHqmFLX_Pdxu0XWaw6YORsBr1DY/edit)
 
-## Bi-Weekly Wet-Lab Duties (autoclaving, delivery)
-
-Rotates among Yuyan, Gaby, Kelly, Marlene, Rachel, Nikkil.
-
-## Bi-Weekly Dry-Lab Duties
-
-| Name | Server | GitHub |
-|---|---|---|
-| Jeff | PMACS server usage recording; server usage control (deleting intermediate/useless files); keeping software up to date | Managing common repos; ensuring privacy; ensuring proper use via meeting inspections; updating this manual as needed |
-| Rushil | Managing own project directories | Managing own GitHub repos; updating this manual as needed |
-| Yuyan | — | Lab Manual and Lab Website: editing/updates as requirements change |
-
-<!-- TODO: this table is only as current as the last Drive sheet sync (see the sheet for its own last-modified date) — re-check before publishing -->
+If you're unsure who owns something or think the sheet is out of date, ask Dr. Cheng.

@@ -11,6 +11,6 @@ nav_order: 6
 
 If you haven't done [Penn Onboarding](../Onboarding/PennOnboarding) and [Lab Onboarding](../Onboarding/LabOnboarding) yet, start there first.
 
-1. [Training](Training) — required safety/animal training modules
+1. [Training](Training) — required safety/animal training modules, split into Essential (everyone) and Mouse-Specific (anyone working with animals)
 2. [Record Keeping](RecordKeeping) — LabArchives for daily records, Box for raw/aggregated files
 3. [Tutorials](Tutorials/) — FACS, Microscopy, Animal Facility, Colony Management, Chromium 3', Xenium

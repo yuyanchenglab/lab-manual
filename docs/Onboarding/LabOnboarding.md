@@ -6,7 +6,7 @@ parent: Onboarding
 has_children: false
 ---
 
-<!-- MOVED + edited from docs/Onboarding/LabAccess.md (space/comms sections) and docs/Onboarding/Prerequisites.md (account-request email). PMACS/server access split out to DryLabSetup.md. -->
+<!-- MOVED + edited from docs/Onboarding/LabAccess.md (space/comms sections) and docs/Onboarding/Prerequisites.md (account-request email). PMACS/server access split out to DryLabSetup.md. Added 1:1-meeting and Training sections per Dr. Cheng's request. -->
 
 # {{page.title}}
 
@@ -45,6 +45,17 @@ Send the following to [jeffrey.maurer@pennmedicine.upenn.edu](mailto:jeffrey.mau
 * Birthday
 
 This one email covers GitHub, Slack, the lab Google Calendar, and Drive invites all at once. See [Key Contacts](../Key-Contacts) if you don't hear back within a few days.
+
+## 5. Training
+
+Once you know which track(s) you'll be working in:
+
+* **Wet lab:** [Wet Lab → Training](../Wet-Lab/Training) — Essential safety training, plus Mouse-Specific training if you'll be working with animals
+* **Dry lab:** [Dry Lab → Training](../Dry-Lab/Training) — required training and lab-specific computing orientation
+
+## 6. 1:1 Meetings
+
+Send Dr. Cheng your class schedule/availability so she can set up a recurring 1:1. See [Lab Meetings](../Lab-Management/LabMeetings) for how the different meeting levels (group, project-specific, 1:1) work.
 
 ## Other Lab Accounts (bundled into the same request)
 

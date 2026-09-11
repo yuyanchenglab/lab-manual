@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Concur Reimbursement
+nav_order: 50
 parent: Lab Management
-nav_order: 70
+has_children: false
 ---
 
-<!-- MOVED from docs/Lab Resources/index.md ("Concur Reimbursement" section), content unchanged. This is an ongoing lab-ops task like Orders/PTO, so it belongs here rather than under the old catch-all Lab Resources page. -->
+<!-- MOVED from docs/Lab Resources/index.md ("Concur Reimbursement" section), content unchanged. Moved here because it's an ongoing lab-management process (reimbursement), not a one-off resource note. -->
 
 # {{page.title}}
 
@@ -13,7 +14,7 @@ Whenever we have a fun activity planned in the lab, our lab members may spend th
 
 ## Create a Concur Profile
 
-1) Ask Yuyan to grant youto submit Concur reports on her behalf. This should take a week for admin to approve you.
+1) Ask Yuyan to grant you to submit Concur reports on her behalf. This should take a week for admin to approve you.
 
 2) When you are approved, you will need to give some of your information to the website. Click on your profile picture in the top right and click on `Profile Settings`. From there, set these:
 
@@ -42,5 +43,3 @@ When the first three are complete, there will be a header on the [Concur website
 5) When all information is included for each expense/receipt, go to the report overview page and choose to `Submit Report` for approval.
 
 6) Reimbursements should happen quickly. If there is no notice by the next day, check the `Report Details -> Audit Trail` for information on its progress. Your expense approver should include concrete instructions for fixing your report. When you have followed through with corrections, `Submit Report` again for approval.
-
-<!-- TODO (Kelly/Marlene): re-verify the CREF/Program/Funding-Source values above are still correct, and confirm the "grant you to submit" approval step still takes about a week. -->

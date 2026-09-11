@@ -53,8 +53,9 @@ Keep large or sensitive data out of git — see the `.gitignore` conventions in 
 
 If you're using a coding agent (Claude Code, Codex, etc.) to help with the project, see:
 
-* [Claude Code Usage](Tutorials/CodingAgents/ClaudeCodeUsage)
-* [Codex Usage](Tutorials/CodingAgents/CodexUsage)
-* [Biomni Usage](Tutorials/CodingAgents/BiomniUsage)
+* [Claude to PARCC](Tutorials/CodingAgents/ClaudeToPARCC)
+* [Claude to Git](Tutorials/CodingAgents/ClaudeToGit)
+* [Codex to PMACS](Tutorials/CodingAgents/CodexToPMACS)
+* [Codex to Git](Tutorials/CodingAgents/CodexToGit)
 
 <!-- NEEDS LAB INPUT: any project-management-specific rules for agent use — e.g. should a CLAUDE.md live in every project folder by convention? Should agent-authored commits be flagged somehow? -->

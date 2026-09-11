@@ -19,9 +19,10 @@ nav_order: 40
 
 ## Coding Agents
 
-* [Claude Code Usage](CodingAgents/ClaudeCodeUsage)
-* [Codex Usage](CodingAgents/CodexUsage)
-* [Biomni Usage](CodingAgents/BiomniUsage)
+* [Claude to PARCC](CodingAgents/ClaudeToPARCC)
+* [Claude to Git](CodingAgents/ClaudeToGit)
+* [Codex to PMACS](CodingAgents/CodexToPMACS)
+* [Codex to Git](CodingAgents/CodexToGit)
 
 ## Analysis Pipelines
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Codex Usage
+title: Codex to PMACS
 parent: Tutorials
 grand_parent: Dry Lab
 nav_order: 50

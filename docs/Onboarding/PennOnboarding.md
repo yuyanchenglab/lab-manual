@@ -12,7 +12,7 @@ has_children: false
 
 This page covers the university-side process for permanent staff joining Penn. For lab-specific access (space, Slack, GitHub, Drive), see [Lab Onboarding](LabOnboarding). If you're temporary staff, a postdoc, or a student, see your category's requirements on [Joining the Lab](../Joining-the-Lab/) instead.
 
-## Permanent Staff
+
 
 The general process for onboarding staff at the University of Pennsylvania (UPenn) can be found here: [Onboard@Penn](https://www.onboard.upenn.edu/). This page catalogues any hitches that may not be explained through that resource.
 

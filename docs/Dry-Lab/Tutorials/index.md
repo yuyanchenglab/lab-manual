@@ -15,6 +15,7 @@ nav_order: 40
 * [PARCC Usage](Access/PARCC)
 * [PMACS Usage](Access/PMACS)
 * [GitHub Usage](Access/GitHubUsage)
+* [IDE Setup](Access/SetupIDE)
 
 ## Coding Agents
 

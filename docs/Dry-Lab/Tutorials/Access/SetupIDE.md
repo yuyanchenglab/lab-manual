@@ -1,17 +1,17 @@
 ---
 layout: default
 title: IDE Setup
-parent: Computing Basics
+parent: Tutorials
 grand_parent: Dry Lab
 has_children: false
-nav_order: 10
+nav_order: 35
 ---
 
-<!-- MOVED from docs/Intro to Computation/SetupIDE.md, content unchanged -->
+<!-- MOVED from docs/Intro to Computation/SetupIDE.md, then moved again from Dry-Lab/Computing-Basics/ to Dry-Lab/Tutorials/Access/ per Yuyan's request. Content otherwise unchanged. -->
 
 # {{page.title}}
 
-With access to the PMACS server (see [PMACS Usage](../Tutorials/Access/PMACS)), here are some IDE options:
+With access to the PMACS server (see [PMACS Usage](PMACS)), here are some IDE options:
 
 * [VS Code](#VS-Code)
 * [Jupyter Notebook](#Jupyter-Notebook)

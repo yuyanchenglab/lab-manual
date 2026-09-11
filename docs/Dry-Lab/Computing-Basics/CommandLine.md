@@ -62,7 +62,7 @@ $ bsub -Is bash
 $ bsub -n 4 -R "rusage[mem=75000] span[hosts=1]" -M 75000 -Is bash   # with more memory/cores
 ```
 
-For a Jupyter notebook within the node (Mac steps — see [Computing Basics → IDE Setup](SetupIDE) for the full walkthrough; other OSes: [HPC wiki](https://hpcwiki.pmacs.upenn.edu/wiki/index.php/HPC:Jupyter)):
+For a Jupyter notebook within the node (Mac steps — see [Tutorials → IDE Setup](../Tutorials/Access/SetupIDE) for the full walkthrough; other OSes: [HPC wiki](https://hpcwiki.pmacs.upenn.edu/wiki/index.php/HPC:Jupyter)):
 
 * `cd` to your working directory first (Jupyter's GUI navigation between subdirectories is limited).
 * On the interactive node: `jupyter notebook --ip $(hostname)`

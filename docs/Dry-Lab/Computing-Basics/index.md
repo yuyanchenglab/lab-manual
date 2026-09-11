@@ -12,10 +12,9 @@ nav_order: 30
 
 **Owner:** Jeff
 
-<!-- TODO (Jeff): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
+<!-- IDE Setup moved to Dry-Lab/Tutorials/Access/SetupIDE.md per Yuyan's request. TODO (Jeff): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
 Background/setup material — not project-specific, but useful before diving into the tutorials above.
 
-* [IDE Setup](SetupIDE)
 * [Command Line](CommandLine)
 * [Python & R](PythonR)
 * [Bioconda](Bioconda)

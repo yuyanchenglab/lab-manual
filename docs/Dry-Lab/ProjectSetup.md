@@ -54,6 +54,7 @@ Keep large or sensitive data out of git — see the `.gitignore` conventions in 
 If you're using a coding agent (Claude Code, Codex, etc.) to help with the project, see:
 
 * [Claude to PARCC](Tutorials/CodingAgents/ClaudeToPARCC)
+* [Claude to PMACS](Tutorials/CodingAgents/ClaudeToPMACS)
 * [Claude to Git](Tutorials/CodingAgents/ClaudeToGit)
 * [Codex to PMACS](Tutorials/CodingAgents/CodexToPMACS)
 * [Codex to Git](Tutorials/CodingAgents/CodexToGit)

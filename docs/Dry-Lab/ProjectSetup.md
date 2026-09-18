@@ -16,21 +16,20 @@ has_children: false
 Standard setup for a new dry-lab project, start to finish.
 
 ## 1. Assign a Project ID
-
 <!-- NEEDS LAB INPUT: who assigns this, and where's the registry? A Drive sheet? Ask Yuyan/Jeff. -->
+When initiating a new analysis project (ex. single-cell, spatial, etc.,), refer to the [Project Management Sheet](https://upenn.box.com/s/7n3fo09ud9lb2uyb7le6xf6fkn382d6m) on box. Follow the instructions below for adding a new project ID to the management sheet.
 
-[NEEDS INPUT]
+Format: prj#### — first 2 digits = last 2 digits of year; last 2 digits = next sequential number.
+Example: if last ID is prj2604, next is prj2605.
 
 ## 2. Acquire the Metadata Sheet
-
 <!-- NEEDS LAB INPUT: is this the "Cheng Lab Collaborator Metadata Submission" form referenced in Drive, or a separate per-project template? -->
-
-[NEEDS INPUT]
+For tracking sample metadata, use the [Cheng Lab sample metadata template](https://upenn.box.com/s/7wa2eajjmsf1ah3vnka4wf45fpxcdtna), which can be found on Box.
 
 ## 3. Create the Project Folder
 
-On the PMACS server, create a folder named for the project ID under the appropriate lab project space:
-
+On the PMACS server, create a folder named for the project ID under the appropriate lab project space (all analyses containing patient data should be performed in the hipaa_ycheng11lab directory):
+    /project/ycheng11lab/<project-id>/
     /project/hipaa_ycheng11lab/<project-id>/
 
 <!-- TODO: confirm this is the right root path — Programming.md references /project/hipaa_ycheng11lab/software/ for shared lab software specifically, and the old Drive doc separately mentions "ycheng11_lab" (non-HIPAA) vs "ycheng11lab_hippa" (HIPAA) project spaces. Which one is the default for a new project, and when do you use the other? -->
@@ -38,7 +37,7 @@ On the PMACS server, create a folder named for the project ID under the appropri
 ## 4. Create Your Own Subfolder
 
 Inside the project folder, create a subfolder under your PennKey/username:
-
+    /project/ycheng11lab/<project-id>/<your-username>
     /project/hipaa_ycheng11lab/<project-id>/<your-username>/
 
 Do your compute here — keep intermediate/working files scoped to your own subfolder so the shared project folder stays organized (see [Lab Duties](../Lab-Management/LabDuties) — Jeff's server-cleanup responsibilities depend on this).

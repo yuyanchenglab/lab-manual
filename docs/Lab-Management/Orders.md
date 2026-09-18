@@ -36,9 +36,7 @@ Once Dr. Cheng notifies you the order is placed (and you get Joy's confirmation 
 
 ## Requesting a Quote (POs)
 
-Purchase orders for requested quotes are tracked in this Box folder:
-
-[NEEDS INPUT — Gaby: paste the Box folder link here]
+For items that cannot be purached directly through Penn Marketplace, a quote will need to be requested from the vendor. These quotes are used by our business administrator to generate a purchase order. All purchase orders and their related quotes should be uploaded to the appropriate vendor folder on Box. These folders can be located under [Files > Lab Management > Order](https://upenn.app.box.com/folder/292452124069) 
 
 ## Receiving Orders
 

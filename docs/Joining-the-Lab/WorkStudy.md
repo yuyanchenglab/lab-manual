@@ -22,3 +22,15 @@ has_children: false
 * You can always appeal to get work study funding (or to get your allotment increased). The Penn Financial Services office is the Franklin Building on 3451 Walnut Street. I (Rushil) have had better experiences in person as opposed to via email or phone. 
 
 [NEEDS INPUT: minimum weekly hour commitment, work-study eligibility/FAFSA requirements, minimum semester commitment]
+
+**Fellowships/Honors Thesis**
+* Onboarding is mainly a matter of requesting access — see [Lab Onboarding](../Onboarding/LabOnboarding) for the account-request email. In addition to the standard process, follow the instructions below.
+* Fellowships:
+    * Complete the fellowship's required forms, inform Dr. Cheng of the fellowship's requirements, and establish regular communication for timesheets/progress checks.
+    * Regarding potential abstracts/posters/presentations for the program, let Dr. Cheng know as early as possible, and request her to review and provide feedback for your drafts at least 2 weeks in advance.
+* Honors Thesis:
+    * Meet with Dr. Cheng before applying in order to discuss the project and timeline.
+    * Complete required forms, sending Dr. Cheng forms for signature or upload at least 1-2 weeks in advance.
+    * Complete proposal as necessary for the program, sending drafts for Dr. Cheng to review and provide feedback at least 2 weeks in advance.
+    * Establish regular communication for progress checks.
+    * Regarding potential abstracts/posters/presentations for the program, let Dr. Cheng know as early as possible, and request her to review and provide feedback for your drafts at least 2 weeks in advance.

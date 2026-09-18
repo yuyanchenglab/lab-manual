@@ -15,7 +15,7 @@ nav_order: 55
 <!-- TODO (Gaby): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. --> 
 ## Submission Protocol
 
-All sequencing for scRNAseq or snRNAseq experiemnts are performed by Novogene. Details for how to initiate a new sequencing projecg with Novogene is covered in the [Sequencing SOP](https://drive.google.com/file/d/1nniogp2uDKybHIAeP5rGpAf5MbAotInm/view?usp=sharing).
+All sequencing for scRNAseq or snRNAseq experiemnts are performed by Novogene. Details for how to initiate a new sequencing project with Novogene is covered in the [Sequencing SOP](https://drive.google.com/file/d/1nniogp2uDKybHIAeP5rGpAf5MbAotInm/view?usp=sharing).
 
 ## Materials for Shipping
 

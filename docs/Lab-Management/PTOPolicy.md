@@ -34,4 +34,17 @@ Request PTO **at least one week in advance**. This is separate from official Wor
 
 **Owner:** Gaby
 
-[NEEDS INPUT — Gaby: PTO/sick day policy and request process for postdocs]
+UPenn Postdoc PTO Policy: 
+* In any appointment year, a postdoctoral trainee may take up to 10 University business days as paid vacation days, during which the postdoctoral trainee will continue to receive their stipend or salary.
+* Postdoctoral trainees are also entitled to the official holidays observed by the University and are eligible for the University’s special winter vacation, during which the University is typically closed.
+* If a postdoctoral trainee works or performs research during an official University holiday or special winter vacation, the postdoctoral trainee may use the equivalent time as additional paid vacation days with mentor approval.
+* Unused vacation days, holidays, or equivalent days are forfeited at the end of the appointment year and are not paid out.
+* Postdoctoral trainees should discuss vacation, holidays, winter break, and any mentor-approved scheduling flexibility with their faculty mentor in advance. Departments or schools may have local procedures for recording or approving time away.
+
+To request PTO or sick leave:
+1. Login to [Penn Workday](https://weblogin.pennkey.upenn.edu/idp/profile/SAML2/POST/SSO?execution=e1s1)
+2. Navigate to Personal -> Request Absence (a calendar will appear)
+3. Select date/ramge of dates and define type of leave (PTO, Sick-self, Sick-family)
+4. Submit request to Yuyan for approval*
+
+*Requests for PTO should be made at least one month in advance and communicated to Yuyan in-person

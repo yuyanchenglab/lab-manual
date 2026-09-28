@@ -15,7 +15,7 @@ nav_order: 50
 <!-- TODO (Gaby): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
 ## Overview
 
-Our lab houses a Chromium platform from 10x Genomics for single-cell and single-nucleus RNA sequecing experiments. *For lab members who will be involved in performing or assissting collaborators with these experiments, please review the [scRNAseq SOP](https://drive.google.com/file/d/18ttbXXQzrBRXAN9rbZekJ13oz1CmcQ9y/view?usp=drive_link) document, which covers how to set up a new experiment, sample preparation, data generation and handling, and instrument handling.
+Our lab houses a Chromium platform from 10x Genomics for single-cell and single-nucleus RNA sequecing experiments. *For lab members who will be involved in performing or assissting collaborators with these experiments, please review the [scRNAseq SOP](https://drive.google.com/file/d/18ttbXXQzrBRXAN9rbZekJ13oz1CmcQ9y/view?usp=sharing) document, which covers how to set up a new experiment, sample preparation, data generation and handling, and instrument handling.
 
 *This SOP applies specifically to Universal 3' kits from 10x Genomics
 
@@ -29,7 +29,7 @@ Protocols for single-cell experiments can be found on the 10x Genomics website. 
 
 ## Results / Output
 
-In the wet-lab, a single-cell experiment ends with the construction of a library. Libraries are quantified by qPCR, pooled, and submitted to Novogene for sequencing. Details on sequencing setup and submission can be found within the [Sequencing SOP](https://drive.google.com/file/d/1nniogp2uDKybHIAeP5rGpAf5MbAotInm/view?usp=drive_link).
+In the wet-lab, a single-cell experiment ends with the construction of a library. Libraries are quantified by qPCR, pooled, and submitted to Novogene for sequencing. Details on sequencing setup and submission can be found within the [Sequencing SOP](https://drive.google.com/file/d/1nniogp2uDKybHIAeP5rGpAf5MbAotInm/view?usp=sharing).
 
 ## Related
 

@@ -46,7 +46,7 @@ See [Vacation and Mentor-Approved Flexibility of Observed Holidays and Winter Br
 To request PTO or sick leave:
 1. Login to [Penn Workday](https://weblogin.pennkey.upenn.edu/idp/profile/SAML2/POST/SSO?execution=e1s1)
 2. Navigate to Personal -> Request Absence (a calendar will appear)
-3. Select date/ramge of dates and define type of leave (PTO, Sick-self, Sick-family)
+3. Select date/range of dates and define type of leave (PTO, Sick-self, Sick-family)
 4. Submit request to Yuyan for approval*
 
 *Requests for PTO should be made at least one month in advance and communicated to Yuyan in-person

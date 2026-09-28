@@ -15,7 +15,7 @@ nav_order: 55
 <!-- TODO (Gaby): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. --> 
 ## Submission Protocol
 
-All sequencing for scRNAseq or snRNAseq experiemnts are performed by Novogene. Details for how to initiate a new sequencing project with Novogene is covered in the [Sequencing SOP](https://drive.google.com/file/d/1nniogp2uDKybHIAeP5rGpAf5MbAotInm/view?usp=sharing).
+All sequencing for scRNAseq or snRNAseq experiemnts are performed by Novogene. Details for how to initiate a new sequencing project with Novogene is covered in the [Sequencing SOP](https://drive.google.com/file/d/1nniogp2uDKybHIAeP5rGpAf5MbAotInm/view?usp=drive_link).
 
 ## Materials for Shipping
 
@@ -23,7 +23,7 @@ Before submitting a request for pickup, ensure the necessary materials for sampl
 
 ## Results / Output
 
-*Turnaround time for sequencing results on a full lane of a (10B or 25B) flow cell is typicall 7-10 days after samples have been received. Novogene will notify via email when data is ready to be released. For downloading data to the PMACS server, Novogene will provide an lftp command-line file transfer link. Details on how to use this link can be found within the [Sequencing SOP](https://drive.google.com/file/d/1nniogp2uDKybHIAeP5rGpAf5MbAotInm/view?usp=sharing). Unless otherwise communicated, Novogene will provide raw sequencing data as compressed FASTQ files (.fq.gz or .fastq.gz).
+*Turnaround time for sequencing results on a full lane of a (10B or 25B) flow cell is typicall 7-10 days after samples have been received. Novogene will notify via email when data is ready to be released. For downloading data to the PMACS server, Novogene will provide an lftp command-line file transfer link. Details on how to use this link can be found within the [Sequencing SOP](https://drive.google.com/file/d/1nniogp2uDKybHIAeP5rGpAf5MbAotInm/view?usp=drive_link). Unless otherwise communicated, Novogene will provide raw sequencing data as compressed FASTQ files (.fq.gz or .fastq.gz).
 
 *If partial sequencing on a lane of a 25B flow cell has been requested, turnaround time is typically longer, but usually no longer than 1 month.
 

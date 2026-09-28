@@ -50,9 +50,9 @@ For those interested in reviewing Xenium data, 10x Genomics provides an interact
 
 ## Instrument Maintenance
 
-For further details on maintenance of the Xenium Analyzer, please refer to the [Xenium Maintenance SOP](https://drive.google.com/file/d/14oa_jnDXeLxhHWfKO1veVv7jnViCQsGj/view?usp=drive_link).
+For further details on maintenance of the Xenium Analyzer, please refer to the [Xenium Maintenance SOP](https://drive.google.com/file/d/14oa_jnDXeLxhHWfKO1veVv7jnViCQsGj/view?usp=drive_link). Further details about the air compressor can be found in the [user guide](https://drive.google.com/file/d/112Gcmcvlp3dcJpd1gikSFBNWEIxy733u/view?usp=drive_link)
 
 ## Related
 
 * Analysis pipeline: [Xenium Spatial Pipeline Usage](../../Dry-Lab/Tutorials/Pipelines/XeniumSpatialPipeline)
-[Xenium Documentation and Information](https://drive.google.com/drive/folders/1MLeCC6yzMEE_rSHNAMgOXRV-7rB7AOYF?usp=sharing)
+* [Xenium Documentation and Information](https://drive.google.com/drive/folders/1MLeCC6yzMEE_rSHNAMgOXRV-7rB7AOYF?usp=sharing)

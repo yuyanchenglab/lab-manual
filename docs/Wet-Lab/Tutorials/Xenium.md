@@ -15,7 +15,7 @@ nav_order: 60
 <!-- TODO (Gaby): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
 ## Overview
 
-Our lab houses a Xenium Analyzer platform from 10x Genomics that performs imaging-based spatial transcriptomics. For lab members who will be involved in performing or assissting collaborators with Xenium experiments, please review the [Xenium SOP](https://drive.google.com/file/d/1aA3V9SrkZ3vc8SjTEyslsPVGT3W6hKwE/view?usp=sharing) document, which covers setting up new Xenium experiments, sample preparation, data generation and handling, and instrument handling.
+Our lab houses a Xenium Analyzer platform from 10x Genomics that performs imaging-based spatial transcriptomics. For lab members who will be involved in performing or assissting collaborators with Xenium experiments, please review the [Xenium SOP](https://drive.google.com/file/d/1aA3V9SrkZ3vc8SjTEyslsPVGT3W6hKwE/view?usp=drive_link) document, which covers setting up new Xenium experiments, sample preparation, data generation and handling, and instrument handling.
 
 ## Materials
 
@@ -50,8 +50,9 @@ For those interested in reviewing Xenium data, 10x Genomics provides an interact
 
 ## Instrument Maintenance
 
-For further details on maintenance of the Xenium Analyzer, please refer to the [Xenium Maintenance SOP](https://drive.google.com/file/d/14oa_jnDXeLxhHWfKO1veVv7jnViCQsGj/view?usp=sharing).
+For further details on maintenance of the Xenium Analyzer, please refer to the [Xenium Maintenance SOP](https://drive.google.com/file/d/14oa_jnDXeLxhHWfKO1veVv7jnViCQsGj/view?usp=drive_link).
 
 ## Related
 
 * Analysis pipeline: [Xenium Spatial Pipeline Usage](../../Dry-Lab/Tutorials/Pipelines/XeniumSpatialPipeline)
+[Xenium Documentation and Information](https://drive.google.com/drive/folders/1MLeCC6yzMEE_rSHNAMgOXRV-7rB7AOYF?usp=sharing)

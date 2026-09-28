@@ -40,6 +40,7 @@ UPenn Postdoc PTO Policy:
 * If a postdoctoral trainee works or performs research during an official University holiday or special winter vacation, the postdoctoral trainee may use the equivalent time as additional paid vacation days with mentor approval.
 * Unused vacation days, holidays, or equivalent days are forfeited at the end of the appointment year and are not paid out.
 * Postdoctoral trainees should discuss vacation, holidays, winter break, and any mentor-approved scheduling flexibility with their faculty mentor in advance. Departments or schools may have local procedures for recording or approving time away.
+
 See [Vacation and Mentor-Approved Flexibility of Observed Holidays and Winter Break](https://weblogin.pennkey.upenn.edu/idp/profile/SAML2/POST/SSO?execution=e1s1) for more information
 
 To request PTO or sick leave:

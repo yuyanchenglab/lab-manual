@@ -45,13 +45,42 @@ Inside the project folder, create a subfolder under your PennKey/username:
 
 Do your compute here — keep intermediate/working files scoped to your own subfolder so the shared project folder stays organized (see [Lab Duties](../Lab-Management/LabDuties) — Jeff's server-cleanup responsibilities depend on this).
 
-## 5. Push Scripts to the Lab GitHub
+## 4. Data Copying
+
+DO NOT COPY RAW DATA
+
+Raw data files are very large and take up a lot of space on the server. Create soft links to raw data when necessary (data pre-processing is likely the only time you will need to soft link to large data files).
+
+## 5. Data Preprocessing ("Master Analysis")
+
+All snRNAseq, scRNAseq, and spatial data go through a pre-processing pipeline. These pre-processing pipelines have multiple steps that are specific to the type of data being analyzed. *Any pre-processing steps, and their respective output folders, should remain within the shared project directory. Any further downstream analysis (post-processing) should be performed in your user-specific directory.
+
+*Only the lab member responsible for completing the pre-processing should edit data files within the shared project directory.
+
+## 6. Virtual Project Environments
+
+A virtual environment is an isolated, self-contained space that holds a specific version of a programming language and its own dedicated set of software libraries or packages. Our lab uses virtual environments (venvs) for several reasons:
+
+* Avoid Conflicts: Different software projects often need different versions of the same library. Keeping them separate stops one project or type of anlysis from breaking another.
+
+* Reproducible Workflows: Using venvs standardizes data analysis across multiple projects, ensuring consistent setups and fully replicable results.
+
+Venvs for our lab can be found under
+
+    /project/hipaa_ycheng11lab/software/virtual_environments
+
+
+These venvs are not to be edited or changed for specific projects. If a project-specific venv is needed, one should be created under your user folder for that project
+    
+    /project/ycheng11lab/<project-id>/<your-username>/virtual_environments/<name-of-venv>/
+
+## 7. Push Scripts to the Lab GitHub
 
 Code/scripts (not data) go to the [lab-manual](https://github.com/yuyanchenglab) org's project repos, not the server. See [Lab Tutorials → GitHub Usage](Tutorials/Access/GitHubUsage) for the actual git workflow.
 
 Keep large or sensitive data out of git — see the `.gitignore` conventions in GitHub Usage.
 
-## 6. Using a Coding Agent
+## 8. Using a Coding Agent
 
 If you're using a coding agent (Claude Code, Codex, etc.) to help with the project, see:
 

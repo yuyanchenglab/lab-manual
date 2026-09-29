@@ -29,8 +29,8 @@ For tracking sample metadata, use the [Cheng Lab sample metadata template](https
 ## 3. Create the Project Folder
 
 On the PMACS server, create a folder named for the project ID under the appropriate lab project space (all analyses containing patient data should be performed in the hipaa_ycheng11lab directory):
+    
     /project/ycheng11lab/<project-id>/
-or
     /project/hipaa_ycheng11lab/<project-id>/
 
 
@@ -39,8 +39,8 @@ or
 ## 4. Create Your Own Subfolder
 
 Inside the project folder, create a subfolder under your PennKey/username:
+
     /project/ycheng11lab/<project-id>/<your-username>
-or
     /project/hipaa_ycheng11lab/<project-id>/<your-username>/
 
 Do your compute here — keep intermediate/working files scoped to your own subfolder so the shared project folder stays organized (see [Lab Duties](../Lab-Management/LabDuties) — Jeff's server-cleanup responsibilities depend on this).

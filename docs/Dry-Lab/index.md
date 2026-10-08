@@ -20,3 +20,4 @@ If you haven't done [Penn Onboarding](../Onboarding/PennOnboarding) and [Lab Onb
    * **Coding Agents:** Claude Code, Codex, Biomni
    * **Analysis Pipelines:** scRNAseq, Xenium Spatial, ATACseq
    * **Standards:** Figures
+6. [Protocols](Protocols/) — step-by-step procedures, starting with moving data between Box, PMACS and PARCC

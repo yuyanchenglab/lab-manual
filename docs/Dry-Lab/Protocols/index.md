@@ -10,4 +10,4 @@ nav_order: 50
 
 Step-by-step procedures for routine dry-lab tasks. Tutorials teach a tool; protocols are the steps to follow every time you do a specific job.
 
-* [Data Transfer](DataTransfer) — moving data between Box, PMACS and PARCC
+* [Data Transfer](DataTransfer) — moving data between Box, PMACS, PARCC and GitHub, with steps a coding agent can follow

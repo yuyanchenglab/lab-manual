@@ -55,6 +55,7 @@ Mice are used for experiments at 6–8 weeks. Use the colony sheet to select mic
 
 ## 6. Animal Transfer to BSL2
 **Animals must be transferred to a BSL2 housing room BEFORE exposure to any BSL2 agents (eg. Lentivirus)**
+
 To transfer animals a BSL2 housing room (JM3 364):
 1. Ensure the lab has completed a [hazard briefing](https://ular.upenn.edu/form-page/annual-animal-hazard-briefing-form/) with ULAR staff within the last year
 2. Fill out the [rodent transfer request form](https://ular.upenn.edu/form-page/rodent-relocation-only/) 

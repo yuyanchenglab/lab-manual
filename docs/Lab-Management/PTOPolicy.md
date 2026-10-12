@@ -37,7 +37,7 @@ Generally, time off for graduate students is flexible and arranged with their th
 
 ### Vacation (Article 31):
 * Graduate workers should coordinate time off for vacation with their immediate supervisor. Additional paid vacation time beyond the days guaranteed in this article may be arranged with their supervisor. 
-* Graduate workers in research positions are guaranteed a [minimum of 10 paid vacation days]{.ul} per year. These days will not rollover or be paid out.
+* Graduate workers in research positions are guaranteed a minimum of 10 paid vacation days per year. These days will not rollover or be paid out.
 * Additionally Graduate workers are granted the [University Special Winter Vacation Days](https://www.hr.upenn.edu/policies-and-procedures/policy-manual/time-off/special-winter-vacation). If they are required to work during this time, they will receive equivalent time off which must be taken within 90 days. 
 
 *Note: Some graduate programs may have processes to request certain time off in Workday but this is not processed by Yuyan.

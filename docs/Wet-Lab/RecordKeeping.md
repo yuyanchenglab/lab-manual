@@ -14,7 +14,8 @@ has_children: false
 ## LabArchives — Daily Lab Records
 All wet lab members are required to keep an updated digital lab notebook on LabArchives for daily reports of results, protocols, and general record-keeping. You get access as part of [Lab Onboarding](../Onboarding/LabOnboarding).
 
-When you get your digital Lab Archives notebook from Yuyan it should include sample folders for organization structure. This structure can be flexible, however, **your notebook needs to be navigable and readable by your future self and others**
+When you get your digital Lab Archives notebook from Yuyan it should include sample folders for organization structure. This structure can be flexible, however, **your notebook needs to be navigable and readable by your future self and others.**
+
 It is expected that you update your lab notebook daily. Include enough detail that someone with little context could understand and reproduce your work! 
 
 Example Lab Archives Structure:

@@ -37,6 +37,6 @@ Maintaining a laboratory notebook is **essential to scientific rigor and reprodu
 Your lab records should be clear enough that someone with minimal context could accurately interpret your plans, data, and conclusions.
 Moreover, your lab records need to be detailed enough that another lab member or research could reproduce your results and conclusions.
 
-As summarized by the BGS Responsible Conduct of Research page on [Acquisitoin and Management of Data](https://www.med.upenn.edu/bgs-rcr-exdes/case-study-module-1.html): 
+As summarized by the BGS Responsible Conduct of Research page on [Acquisition and Management of Data](https://www.med.upenn.edu/bgs-rcr-exdes/case-study-module-1.html): 
 
 "The laboratory notebook provides a record of primary and secondary data. It can, and should, provide as well a record of collaboration, interpretation, and decisions. It allows authentication of work by outside parties and proves ownership in claims to discovery. The notebook often represents the critical bridge between different studies occurring at different times in the lab, allowing researchers to identify, replicate, and build upon previous findings – including both positive and negative results. Scientific rigor, reproducibility, and progress all depend critically on one’s ability to maintain an appropriate and effective laboratory notebook."

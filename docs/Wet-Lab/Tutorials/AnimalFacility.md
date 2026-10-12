@@ -44,10 +44,10 @@ Always use the biosafety cabinet when opening cages to handle mice:
 
 ## 4. Breeding and Weaning Mice
 
-***IDs:** >1000 typically denotes breeders; <1000 usually denotes pups.
-***Breeder cages:** box the cage ID (e.g., C001); replace breeders every 6–8 months, sacrifice remaining pups as necessary.
-***Pregnancy/weaning:** move other mice out of a pregnant female's cage, return once pups are weaned. Submit cage card requests through POLARIS at least 2 business days ahead of the weaning date. Wean at 21 days, ear-tag, update the [Cheng Lab Colony Sheet](https://docs.google.com/spreadsheets/d/1nWXFYK2RldgJ07-j5yEXCYFKmiCouoic/edit?gid=868474274#gid=868474274). If you don't know which female is the mom, leave both in the cage. Check the colony regularly for new pups.
-***Post-weaning:** label cage cards with breeder cage ID, mouse IDs, gender. Separate pups by gender. Max 5 mice/cage. Different litters of the same genotype can share a cage. Keep the lab at ~20 cages or fewer.
+* **IDs:** >1000 typically denotes breeders; <1000 usually denotes pups.
+* **Breeder cages:** box the cage ID (e.g., C001); replace breeders every 6–8 months, sacrifice remaining pups as necessary.
+* **Pregnancy/weaning:** move other mice out of a pregnant female's cage, return once pups are weaned. Submit cage card requests through POLARIS at least 2 business days ahead of the weaning date. Wean at 21 days, ear-tag, update the [Cheng Lab Colony Sheet](https://docs.google.com/spreadsheets/d/1nWXFYK2RldgJ07-j5yEXCYFKmiCouoic/edit?gid=868474274#gid=868474274). If you don't know which female is the mom, leave both in the cage. Check the colony regularly for new pups.
+* **Post-weaning:** label cage cards with breeder cage ID, mouse IDs, gender. Separate pups by gender. Max 5 mice/cage. Different litters of the same genotype can share a cage. Keep the lab at ~20 cages or fewer.
 
 ## 5. Experimental Use of Mice
 
@@ -57,6 +57,6 @@ Mice are used for experiments at 6–8 weeks. Use the colony sheet to select mic
 **Animals must be transferred to a BSL2 housing room BEFORE exposure to any BSL2 agents (eg. Lentivirus)**
 To transfer animals a BSL2 housing room (JM3 364):
 * Ensure the lab has completed a [hazard briefing](https://ular.upenn.edu/form-page/annual-animal-hazard-briefing-form/) with ULAR staff within the last year
-* Fill out the [rodent transfer request form] (https://ular.upenn.edu/form-page/rodent-relocation-only/) 
+* Fill out the [rodent transfer request form](https://ular.upenn.edu/form-page/rodent-relocation-only/) 
 * Once the request has been approved, move the indicated cages to JM3 364
 * After exposure to BSL2 agents, add an orange biohazard card to the cage (ask JM3 office staff for extra cards)

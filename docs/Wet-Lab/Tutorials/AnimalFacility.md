@@ -25,7 +25,7 @@ Mice with planned or prior exposure to BSL2 agents are currently housed JMB 364.
 
 ### JMB Room 364 (BSL2)
 **BSL2 rooms must be entered LAST during the day. If you enter a BSL2 room you CANNOT enter a BSL1 room until the next day**
-* Before entering Room 264: sterile gloves, shoe covers, isolation gown.
+* Before entering Room 364: sterile gloves, shoe covers, isolation gown.
 * If opening cages, also: double gloves, face mask, scrub cap (optional).
 * Remove all PPE before leaving the animal facility. 
 

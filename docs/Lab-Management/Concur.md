@@ -48,4 +48,10 @@ When the first three are complete, there will be a header on the [Concur website
 
 **Owner:** Marlene
 
-[NEEDS INPUT — Marlene: student expense-reimbursement process, if it differs from the standard Concur flow above (e.g. a different approval chain, funding source, or reimbursement method for students who may not have a Concur profile)]
+Graduate students may need to add additional documentation to get a reimbursement request approved. For instance, the default approver for BGS students is typically the BGS Financial Office not the Department of Ophthalmology.
+
+To submit for reimbursement:
+1) Create an expense report as above
+2) Add a note in the description "Send to Anthony Delong, Department of Ophthalmology"
+3) Fill out an [Expense Justification Form](https://drive.google.com/file/d/1S886GJk7LQREErhBUOse1Dwi9zQBUKsV/view?usp=drive_link) and get it signed by Yuyan
+4) Attach the signed form and submit report for approval

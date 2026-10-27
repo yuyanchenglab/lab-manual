@@ -7,14 +7,12 @@ has_toc: false
 nav_order: 30
 ---
 
-<!-- NEW index page for background material that existed under the old "Intro to Computation" section but isn't one of your five named tutorials. Kept as supporting material rather than dropped. -->
-
 # {{page.title}}
 
 **Owner:** Jeff
 
-<!-- IDE Setup moved to Dry-Lab/Tutorials/Access/SetupIDE.md per Yuyan's request. TODO (Jeff): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
-Background/setup material — not project-specific, but useful before diving into the tutorials above.
+<!-- TODO (Jeff): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
+Background/setup material for wet lab members to get started with the dry team!
 
 * [Command Line](CommandLine)
 * [Python & R](PythonR)

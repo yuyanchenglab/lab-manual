@@ -47,8 +47,3 @@ Project code/scripts belong in their own project repo (see [Project Management â
 
 For projects with test data, exclude files matching `*_small*` and `*_toy*` patterns in `.gitignore`.
 
-## Virtual Environments
-
-The lab maintains a shared software directory for reproducible environments across projects. Check that directory's README for the specific setup instructions for your project.
-
-<!-- TODO: this section needs the actual path and more specifics â€” flagged since the source summary was thin here too -->

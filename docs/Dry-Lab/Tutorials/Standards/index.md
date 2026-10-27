@@ -8,5 +8,3 @@ nav_order: 40
 ---
 
 # {{page.title}}
-
-* [Figures](Figures)

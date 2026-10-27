@@ -8,7 +8,3 @@ nav_order: 30
 ---
 
 # {{page.title}}
-
-* [scRNAseq Pipeline Usage](scRNAseqPipeline)
-* [Xenium Spatial Pipeline Usage](XeniumSpatialPipeline)
-* [ATACseq Pipeline Usage](ATACseqPipeline)

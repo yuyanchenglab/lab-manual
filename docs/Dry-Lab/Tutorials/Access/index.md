@@ -8,8 +8,3 @@ nav_order: 10
 ---
 
 # {{page.title}}
-
-* [PARCC Usage](PARCC)
-* [PMACS Usage](PMACS)
-* [GitHub Usage](GitHubUsage)
-* [IDE Setup](SetupIDE)

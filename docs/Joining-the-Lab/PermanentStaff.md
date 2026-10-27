@@ -12,5 +12,4 @@ has_children: false
 
 **Owner:** Jeff
 
-* Follow the [Permanent Staff onboarding process](../Onboarding/PennOnboarding)
-* [NEEDS INPUT: hiring process specifics — is this always through a posted Penn Workday req, or can Dr. Cheng bring someone on directly?]
+Follow the [Permanent Staff onboarding process](../Onboarding/PennOnboarding) guide as supplementary to the tasks outlined via E-mail communication and [Onboard@Penn](https://www.onboard.upenn.edu/).

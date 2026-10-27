@@ -6,7 +6,7 @@ parent: Lab Management
 has_children: false
 ---
 
-<!-- RENAMED from "PTO Policy" to "PTO / Sick Day Policy" per Yuyan's request. Restructured by staff category, each with its own owner: Jeff (permanent staff), Marlene (graduate students), Kelly (temporary staff), Gaby (postdocs). Mechanism for submitting a request is still not specified anywhere I have access to — flagged per category below. -->
+<!-- Structured by staff category, each with its own owner: Jeff (permanent staff), Marlene (graduate students), Kelly (temporary staff), Gaby (postdocs). Mechanism for submitting a request should be specified per category below. -->
 
 # {{page.title}}
 
@@ -16,7 +16,7 @@ Request PTO **at least one week in advance**. This is separate from official Wor
 
 **Owner:** Jeff
 
-[NEEDS INPUT — Jeff: PTO/sick day policy and request process for permanent staff]
+Permanent staff should announce any time off to Yuyan as soon as possible via [Workday](https://www.myworkday.com/upenn/login.htmld) officially and add it to the lab Google Calendar. A future notice and an upcoming reminder either verbally or in a message are polite, if possible.
 
 ## Graduate Students
 

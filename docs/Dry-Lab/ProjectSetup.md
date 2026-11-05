@@ -10,7 +10,7 @@ has_children: false
 
 # {{page.title}}
 
-**Owner:** Gaby
+**Owner:** Gaby, Rushil
 
 <!-- TODO (Gaby): per Yuyan, this page's content should move to a Google Drive doc — replace the content below with a link to it once that's set up. -->
 Standard setup for a new dry-lab project, start to finish.
@@ -33,6 +33,8 @@ On the PMACS server, create a folder named for the project ID under the appropri
     /project/ycheng11lab/<project-id>/
     /project/hipaa_ycheng11lab/<project-id>/
 
+Build this folder from the [lab Claude template](https://github.com/yuyanchenglab/lab-claude-template), so every project keeps the same files for working with Claude: copy `project_template/` here under the project ID, open it in VS Code and tell Claude `Read claude_initialize_files.md and do step A.` The template's README has the details, and it also works for restructuring an existing project. The repository is private: if the link shows a 404, ask Rushil for access.
+
 
 <!-- TODO: confirm this is the right root path — Programming.md references /project/hipaa_ycheng11lab/software/ for shared lab software specifically, and the old Drive doc separately mentions "ycheng11_lab" (non-HIPAA) vs "ycheng11lab_hippa" (HIPAA) project spaces. Which one is the default for a new project, and when do you use the other? -->
 
@@ -42,6 +44,8 @@ Inside the project folder, create a subfolder under your PennKey/username:
 
     /project/ycheng11lab/<project-id>/<your-username>
     /project/hipaa_ycheng11lab/<project-id>/<your-username>/
+
+If the project uses the Claude template, have Claude make this subfolder: `Read claude_initialize_files.md and do step B for <your-username>.` The first subfolder locks the project-level files, so finish step A before anyone starts.
 
 Do your compute here — keep intermediate/working files scoped to your own subfolder so the shared project folder stays organized (see [Lab Duties](../Lab-Management/LabDuties) — Jeff's server-cleanup responsibilities depend on this).
 
@@ -84,6 +88,7 @@ Keep large or sensitive data out of git — see the `.gitignore` conventions in 
 
 If you're using a coding agent (Claude Code, Codex, etc.) to help with the project, see:
 
+* [AI best practices slides](https://upenn.box.com/s/zczsoy3zb8lpjq4fntjzptsgltjxz7tw) from the 30 October 2026 lab meeting, which explain why the template's files exist
 * [Claude to PARCC](Tutorials/CodingAgents/ClaudeToPARCC)
 * [Claude to PMACS](Tutorials/CodingAgents/ClaudeToPMACS)
 * [Claude to Git](Tutorials/CodingAgents/ClaudeToGit)
